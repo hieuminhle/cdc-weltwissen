@@ -1,8 +1,8 @@
- SIGNAL IDUNA
+ 
 
 MOMENTUM 2030
 
-Unternehmensstrategie der SIGNAL IDUNA Gruppe
+Unternehmensstrategie der  Gruppe
 
 Strategiepapier Version 1.0 vom 22. Mai 2024
 
@@ -28,7 +28,7 @@ Strategieprozess heute anders an: Wir haben den Strategieprozess und auch unsere
 
 Daher haben wir zunächst ganz klassisch Daten und Studien unter anderem von führenden Experten ausgewertet, um interne Expertisen ergänzt und
 auf dieser Basis unsere Zukunftshypothesen zur Markt- und Trendentwicklung iterativ Schritt für Schritt erhärtet. Anschließend haben wir dann
-Chancen und Risiken für die SIGNAL IDUNA Gruppe bewertet und mit dem Vorstandsteam wiederum in einer iterativen Arbeitsweise grundlegende
+Chancen und Risiken für die  Gruppe bewertet und mit dem Vorstandsteam wiederum in einer iterativen Arbeitsweise grundlegende
 Richtungsentscheidungen und Leitplanken für unsere zukünftige Marktpositionierung herausgearbeitet.
 
 Neben der crossfunktionalen und deutlich partizipativeren Arbeitsweise ist ein ganz zentraler Unterschied jedoch, dass wir von Beginn an das
@@ -42,7 +42,7 @@ und Handlungsleitung für die Organisation. Der konkrete Weg zum gewünschten Zu
 Prozess zur Operationalisierung der Strategie in Taktiken und Maßnahmenplänen noch festzulegen. Zudem werden wir jedes Jahr überprüfen, ob
 unsere Annahmen für die Zukunft noch richtigsind und gegebenenfalls unsere Zielbilder entsprechend adjustieren.
 
-SIGNAL IDUNA
+
 
 
 
@@ -78,7 +78,7 @@ Inhalte
 
 
 
-Unsere Unternehmensstrategie für die SIGNAL IDUNA Gruppe
+Unsere Unternehmensstrategie für die  Gruppe
 
 In einer sich dynamisch wandelnden und immer komplexeren
 Welt müssen sich Unternehmen kontinuierlich an oft
@@ -209,7 +209,7 @@ Kundenorientierung, den Einsatz neuer Technologien sowie
 in die Fähigkeit, Talente anzuziehen und zu binden,
 grundsätzlich erforderlich sein werden.
 
-SIGNAL IDUNA
+
 
 UNSERE HANDLUNGSFELDER
 
@@ -361,7 +361,7 @@ wir persönlich bereit sind, Neues zu lernen, uns immer wieder
 zu verändern und füreinander da zu sein, bleiben wir auch als
 Organisation beweglich und damit erfolgreich.
 
-SIGNAL IDUNA
+
 
 10
 
@@ -403,7 +403,7 @@ Must-Wins als Basisvoraussetzungen
 - Kritische IT-Systeme
 - VAIT und DORA
 
-SIGNAL IDUNA
+
 
 
 Aufbau und Inhalt unserer
@@ -446,7 +446,7 @@ Inhalte
 
 
 
-Unsere Mission bei SIGNAL IDUNA
+Unsere Mission bei 
 
 Gemeinsam mehr Lebensqualität schaffen
 
@@ -489,7 +489,7 @@ Um unsere Mission Realität werden zu lassen, bieten wir unseren Kunden einen er
 Mehrwert, der über das reine Versicherung und Finanzen hinausgeht und das Leben unserer
 Kunden ein Stück lebenswerter macht.
 
-SIGNAL IDUNA
+
 
 Inhalte
 
@@ -505,7 +505,7 @@ Inhalte
 
 Unsere Ambitionsfelder definieren unser ehrgeiziges
 Ambitionsniveau 2030 und damit das Leistungsniveau für
-alle Gesellschaften der SIGNAL IDUNA Gruppe
+alle Gesellschaften der  Gruppe
 
 Insgesamt fünf dgleichrangige Ambitionsfelder definieren in unserer
 Unternehmensstrategie ein konkretes, ehrgeiziges Ambitionsniveau für
@@ -521,7 +521,7 @@ Die entscheidende Rolle bei der Erreichung unserer Ambitionen wird jedoch
 die gemeinsame Höchstleistung im Team und die herausragenden
 Leistungen jedes einzelnen Mitarbeitenden spielen.
 
-SIGNAL IDUNA 18
+ 18
 
 
 MOMENTUM 2030
@@ -763,7 +763,7 @@ Gesamtkosten (inkl. äußere SRK!) SI Inland / geb. Bruttobeiträge g.G. SI Inla
 
 Überleitung der Werte des Ambitionspfades in mittelfristige Konzernplanung erfolgt rollierend in Zielwertvorgabe.
 
-SIGNAL IDUNA
+
 
 
 24
@@ -775,7 +775,7 @@ Mittelzufluss 10 Mrd. Euro
 Für das Ambitionsfeld Wachstum liegt unser Ambitionsniveau 2030 bei 10 Mrd. € Mittelzufluss p. a. und davon sind bereits 9,4 Mrd. € Mittelzufluss
 p. a. auf Geschäftsfelder verteilt. Überleitung der Werte des Ambitionspfades in mittelfristige Konzernplanung erfolgt rollierend in Zielwertvorgabe.
 
-SIGNAL IDUNA 25
+ 25
 
 
 Detailsicht zum Ambitionsfeld Profitabilität
@@ -787,7 +787,7 @@ Ausland inkl. Dividende der Finanztöchter
 Für das Ambitionsfeld Profitabilität liegt unser Ambitionsniveau 2030 bei 1 Mrd. € RÜS vor Steuern. Dieses Niveau wollen wir 2026 bereits erreichen
 und bis 2030 halten. Überleitung der Werte des Ambitionspfades in mittelfristige Konzernplanung erfolgt rollierend in Zielwertvorgabe.
 
-SIGNAL IDUNA 26
+ 26
 
 Inhalte
 
@@ -961,7 +961,7 @@ Mehr Fokus
 
 
 
-SIGNAL IDUNA
+
 
 Unser Nordstern für das Handlungsfeld:
 Wir sind Marktführer bei unseren Fokus-Zielgruppen
@@ -970,7 +970,7 @@ indem wir einen klaren Fokus in unseren (Wachstums-)
 Märkten haben und unsere starken, neuen und bestehenden Vertriebswege
 konsequent darauf ausrichten.
 
-SIGNAL IDUNA
+
 
 
 Unsere Bausteine im Handlungsfeld
@@ -1004,7 +1004,7 @@ Fokus-Zielgruppen sowie eine herausragende technologische Unterstützung
 des persönlichen Vertriebs aus. Neue Vertriebsformen wie z. B. Embedded
 Insurance haben wir erfolgreich etabliert.
 
-SIGNAL IDUNA 33
+ 33
 
 
 Baustein Märkte
@@ -1014,7 +1014,7 @@ Zielgruppenfokus in unserem Kerngeschäft
 der Erstversicherung, Fonds-, Bauspar- und
 Finanzierungsprodukte nachhaltig als Top-10 Versicherer etabliert.
 
-SIGNAL IDUNA 34
+ 34
 
 
 Mehr Fokus Märkte
@@ -1035,7 +1035,7 @@ Wir fokussieren uns auf den Markt der kleinen und mittleren Unternehmen sowie de
 Schwerpunkt auf unsere Fokus-Zielgruppen in den Branchen Handwerk, Handel und Dienstleistungen und Offentlicher
 Dienst.
 
-SIGNAL IDUNA 35
+ 35
 
 
 Mehr Fokus Märkte
@@ -1124,7 +1124,7 @@ zugeschnittene Zielgruppenlösungen, höchste
 Zielgruppenexpertse und einzigartige Zugänge
 präferierter Partner.
 
-SIGNAL IDUNA
+
 
 39
 
@@ -1156,7 +1156,7 @@ Belegschaftsgeschäft, diese werden ganzheitlich als Kombination aus Tarif, Proz
 
 Die Einhaltung des Zielgruppen-Erlebnisses wird durch eine datenbasierte Messung und Steuerung gewährt.
 
-SIGNAL IDUNA 40
+ 40
 
 
 Mehr Fokus Zielkunden
@@ -1196,7 +1196,7 @@ Potenziale für Zielgruppenagenturen
 - Zielgruppenarchitektur wird kontinuierlich überprüft,
 Wachstumsfelder zu identifizieren und zu adressieren
 
-SIGNAL IDUNA 41
+ 41
 
 
 Mehr Fokus @ Zielkunden
@@ -1247,7 +1247,7 @@ Unternehmen und Mitarbeitenden von Gründung und Ausbildung bis
 Übergabe und Renteneintritt und berücksichtigen diese zur
 bestmöglichen Beratung und Betreuung
 
-SIGNAL IDUNA 43
+ 43
 
 
 Mehr Fokus Zielkunden
@@ -1261,7 +1261,7 @@ Wesentliche Indikatoren zur Erfolgsmessung bis 2030
 2 | 1,0 Mrd. € gebuchte Bruttobeiträge im Bestand aus unseren definierten Fokus-Zielgruppen
 3 | NPS von 55 in Fokus-Zielgruppen
 
-SIGNAL IDUNA 44
+ 44
 
 
 
@@ -1275,7 +1275,7 @@ Wachstumsfeldern wie z. B. Erneuerbare Energien und Finanzprodukte
 zusätzliches Wachstum als Beitrag zu unseren ehrgeizigen
 Wachstumsambitionen.
 
-SIGNAL IDUNA
+
 
 
 Mehr Fokus @ Wachstumsfelder
@@ -1286,7 +1286,7 @@ Wachstumsfeldern „Erneuerbare Energien“ und „Mehr Finanzen“
 Unsere Wachstumsfelder stellen einen wichtigen Hebel zur Erreichung unseres ehrgeizigen Wachstumspfads bis 2030
 dar. Wir unterscheiden geschäftsfeldübergreifende und geschäftsfeldspezifische Wachstumsfelder.
 
-SIGNAL IDUNA 46
+ 46
 
 
 Mehr Fokus
@@ -1294,7 +1294,7 @@ Mehr Fokus
 Baustein Wachstumsfelder
 Wachstumsfeld „Erneuerbare Energien“
 
-SIGNAL IDUNA 47
+ 47
 
 
 4 Mehr Fokus Wachstumsfelder
@@ -1302,7 +1302,7 @@ SIGNAL IDUNA 47
 Mehr Fokus aufunseren Endkunden und Zielkundengruppen durch den
 Aufbau eines Lösungsanbieteransatzes Erneuerbare Energien
 
-SIGNAL IDUNA ist als Versicherer und Lösungspartner für den Markt der Erneuerbaren Energien ein wichtiger Teil der Energiewende. Durch unseren
+ ist als Versicherer und Lösungspartner für den Markt der Erneuerbaren Energien ein wichtiger Teil der Energiewende. Durch unseren
 Lösungsanbieteransatz in Verbindung mit einem B2B2C-Vertriebsmodell nutzen wir unseren guten Zugang zu den Klimagewerken als
 Differenzierungsmerkmal und bieten Versicherungs- und Finanzprodukte u. a. als Embedded-Angebote über fremde Ökosysteme und Plattformen rund um
 Erneuerbare Energien an.
@@ -1338,7 +1338,7 @@ noch zugänglicher.
 Für die SI ergeben sich drei Revenue Streams: 1) Zinserträge aus ausgereichten Sofort-Finanzierungen, 2) Beitragseinnahmen aus Versicherungsprodukten
 (VGV sowie Bausteine, z. B. modulare PV3-Versicherungslösung), 3) Provisionen von Partnern.
 
-SIGNAL IDUNA 48
+ 48
 
 
 Mehr Fokus @ Wachstumsfelder
@@ -1346,7 +1346,7 @@ Mehr Fokus @ Wachstumsfelder
 Wir decken die Customer Journey im Markt der Erneuerbare Energien für
 Privat- und Gewerbekunden als Lösungsanbieter vollständig ab
 
-Erneuerbare Energien @ SIGNAL IDUNA
+Erneuerbare Energien @ 
 - Durch eine ganzheitliche und gleichzeitige Betrachtung
 der Customer Journey für Privat- sowie Gewerbekunden schaffen wir Synergien
 
@@ -1438,7 +1438,7 @@ Nutzung staatlicher Förderung
 Mehr Fokus @ Wachstumsfelder
 
 Durch das Wachstumsfeld ergeben sich für
-SIGNAL IDUNA vielversprechende Vorteile
+ vielversprechende Vorteile
 
 Für die Sl ergeben sich drei Revenue Streams:
 
@@ -1478,7 +1478,7 @@ Wesentliche Indikatoren zur Erfolgsmessung bis 2030
     Partnern umgesetzt (kumuliert 2025-2030 > 150.000)
 
 
-SIGNAL IDUNA 54
+ 54
 
 
 Mehr Fokus @ Wachstumsfelder
@@ -1490,12 +1490,12 @@ Differenzierung im Wachstumsfeld Erneuerbare Energien
 Wesentlicher Wertbeitrag zu den Ambitionsfeldern Wachstum und Profitabilität
 
 Ambitionsniveau 2030
-SIGNAL IDUNA
+
 
 Baustein Wachstumsfelder
 Wachstumsfeld „Mehr Finanzen“
 
-SIGNAL IDUNA 56
+ 56
 
 
 Mehr Fokus Wachstumsfelder
@@ -1512,13 +1512,13 @@ Baufinanzierungssegment, mit moderner Digitaltechnologie.
 - Wir implementieren performante Vertriebsstrukturen & -prozesse, die unsere Kunden und unsere Mitarbeitenden
 gleichermaßen begeistern.
 
-- Wir etablieren die Marke SIGNAL IDUNA als Lösungsanbieter für alle kundenspezifischen Herausforderungen bei
+- Wir etablieren die Marke  als Lösungsanbieter für alle kundenspezifischen Herausforderungen bei
 Kapitalanlagen und Finanzierungen.
 
 - Wir rekrutieren Fachberater 2.0 aus dem Bankensektor, um unseren Kunden eine optimale und überzeugende Beratung
 zu unseren Finanzprodukten zubieten.
 
-SIGNAL IDUNA 57
+ 57
 
 
 Mehr Fokus Wachstumsfelder
@@ -1593,7 +1593,7 @@ Differenzierung durch Qualität
 Mit verschiedenen, qualitätsgeprüften Produkten im
 Bereich Bausparen und Baufinanzierung
 
-- 2023 wurde der SIGNAL IDUNA Bauspar AG vom
+- 2023 wurde der  Bauspar AG vom
 renommierten Deutschen Institut für Service-Qualität
 das Siegel „Beste Bausparkasse Standardtarif
 bundesweit” verliehen)
@@ -1672,7 +1672,7 @@ Profitabilität und Kundenzufriedenheit ein
 
 Wesentliche Indikatoren zur Erfolgsmessung bis 2030
 
-1| Signifikante Erhöhung des Anteils der SIGNAL IDUNA
+1| Signifikante Erhöhung des Anteils der 
 Bestandskunden mit Investment Produkt, Bauspar- und
 Bausparfinanzierungsprodukten
 2 | Signifikante Erhöhung des Bruttomittelzuflusses durch
@@ -1681,7 +1681,7 @@ den Vertrieb von Investment-(SIAM) und Finanzierungs- bzw. Bausparprodukten (SIB
   ihrem Service weiterhin das Ziel eines positiven NPS Scores (> 0)
 4| Erhöhung der Dividendenfähigkeit in SIB
 
-SIGNAL IDUNA 61
+ 61
 
 
  Mehr Fokus Wachstumsfelder
@@ -1699,7 +1699,7 @@ Geschäftsfeld Finanzprodukte
 Jahresüberschuss
 - 4,58 Mio.€ p. a. positiver Jahresüberschuss des Investmentvertriebs in 2030
 
-SIGNAL IDUNA 62
+ 62
 
 
 Mehr Fokus @ Wachstumsfelder
@@ -1714,7 +1714,7 @@ Geschäftsfeld Finanzprodukte
 -  Bruttomittelzuflüsse: 206 Mio. € p. a. Brutto-Mittelzufluss durch die Spargeldeingänge im Bauspargeschäft in 2030 ;
 - Jahresüberschuss vor Steuern:  7,68 Mio. € in 2028
 
-SIGNAL IDUNA 63
+ 63
 
 
 Mehr Fokus
@@ -1729,7 +1729,7 @@ Zielgruppen und im Freien Vertrieb durch segmentspezifische
 Ausrichtung und Kategorisierung aus. Neue Vertriebsformen, z.B.
 Embedded-Lösungen, haben wir erfolgreich etabliert.
 
-SIGNAL IDUNA
+
 
 64
 
@@ -1751,7 +1751,7 @@ Kundenerfahrung an allen Touchpoints der Kundenreise
 
 Die Marktbearbeitung im Exklusivvertrieb erfolgt über spezialisierte Vertriebsstrukturen in Zusammenarbeit mit der
 OD Dialog Services als verlängerte Werkbank zur nachhaltigen Durchdringung der Bestände mit Produktlösungen der
-SIGNAL IDUNA Gruppe.
+ Gruppe.
 
 Unsere Unternehmeragenturen werden mit ExklusivPlus in die Lage versetzt, die Kundenschnittstelle vollumfänglich zu
 besetzen, Bestände auszubauen und vor Zugriffen seitens des Marktes zu schützen.
@@ -1759,7 +1759,7 @@ besetzen, Bestände auszubauen und vor Zugriffen seitens des Marktes zu schütze
 Die Marktbearbeitung in den Freien Vertrieben erfolgt segmentspezifisch und potenzialbasiert anhand einer
 transparenten Kategorisierung der Vertriebspartner.
 
-SIGNAL IDUNA 65
+ 65
 
 
 Mehr Fokus @ Vertriebswege
@@ -1800,7 +1800,7 @@ Organisationsdirektionen (OD) und 20 Gebietsdirektionen (GD)
 —- Gebietsdirektionen verantworten die Betreuung der regional zugeordneten Agenturen
  — Agenturen sind je nach Produktionsleistung unterschiedlichen Agenturstufen zugeordnet
 — Agenturen grenzen sich positiv vom Markt ab, indem eine fachliche Spezialisierung über das Fähigkeiten- und
- Kompetenzkonzept (SIGNAL IDUNA Rad) erfolgt
+ Kompetenzkonzept ( Rad) erfolgt
  - Durch den Aufbau von zielgruppenspezifischen Wissen erfolgt
 eine Weiterentwicklung zu Zielgruppen-Agenturen mit
 speziellen Zugangswegen in die Zielgruppen
@@ -1810,7 +1810,7 @@ sowie der Hauptverwaltung
 - Die Marktbearbeitung der Fokus-Zielgruppen erfolgt im B2B2C-Ansatz (s. Baustein Zielkunden)
 
 
-SIGNAL IDUNA 67
+ 67
 
 
 Mehr Fokus @ Vertriebswege
@@ -1828,7 +1828,7 @@ und Potenzialmakler kategorisiert
 - A/B Makler und Potenzialmakler werden persönlich durch die jeweiligen Direktionen betreut
 - C/D Makler werden digital über eine technische Lösungsplattform betreut
 
-SIGNAL IDUNA 68
+ 68
 
 
 Mehr Fokus Vertriebswege
@@ -1863,7 +1863,7 @@ Absicherungslösungen das Kundenerlebnis sinnvoll
 
 Etablierung eines neuen Vertriebskanals mit Embedded Insurance
 um neue Kundengruppen zu erschließen
-- Auf Basis des Netzwerks und der Produkte der SIGNAL IDUNA Gruppe gestalten wir nachhaltige B2B2C-Vertriebsmodelle
+- Auf Basis des Netzwerks und der Produkte der  Gruppe gestalten wir nachhaltige B2B2C-Vertriebsmodelle
 Durch unser Embedded Angebot:
 - befähigen wir unsere Partner das eigene Produkt um passgenaue Absicherungs- und Finanzierungslösungen für den Endkunden zu erweitern
 - erfüllen wir in den Lebenswelten der Endkunden, wie Heim & Haus, den Bedarf des Kunden nach Absicherung
@@ -1871,7 +1871,7 @@ Durch unser Embedded Angebot:
 - erhalten Endkunden des Partners Absicherungs- und Finanzierundslösungen durch API-basierte Technologien
  und Prozesse mit hoher Convenience
 - schaffen wir durch ein ganzheitliches Konzept Mehrwerte für alle Parteien und ermöglichen so
-  einen Win-Win-Win-Effekt für Endkunden, Kooperationspartner und Signal Iduna
+  einen Win-Win-Win-Effekt für Endkunden, Kooperationspartner und 
 
 70
 
@@ -1890,7 +1890,7 @@ Durch unser starkes Netzwerk und die Zugänge sind wir als
 integraler Lösundspartner in den Bereichen der Erneuerbaren
 Energien und Klimagewerke sowie Banking und Finanzen
 platziert und gehen iterativ weitere Marktsegmente an, die zur
-Identität der SIGNAL IDUNA passen
+Identität der  passen
 
 Die von uns angebotenen Kompositprodukte zur Absicherung
 von Gebäuden, Energie- und Wärmesystemen, Mobilitäts-
@@ -1936,7 +1936,7 @@ Services sowie Betrachtung digitaler Antragseingangskanäle
 5 | NPS-Entwicklung
 5 Einzelbetrachtung unterschiedlicher NPS-Werte (R-NPS, Vermittler NPS)
 
-SIGNAL IDUNA 72
+ 72
 
 
 MEHR NUTZEN
@@ -1954,7 +1954,7 @@ sowie persönliche Beratung
 und Betreuung mithilfe von
 generativer Kl bieten.
 
-SIGNAL IDUNA
+
 
 
 
@@ -1998,7 +1998,7 @@ auskömmlichen Preispositionierung. Unser Produktangebot ist
 zielgruppenspezifisch entwickelt und anpassbar sowie vollständig
 digital prozessierbar.
 
-SIGNAL IDUNA
+
 
 Mehr Nutzen Produkt & Preis
 
@@ -2027,7 +2027,7 @@ Servicedienstleister.
 Im Breitengeschäft sind wir mit unseren Leistungen vollständig kundenzentriert und ganzheitlich („Ende-zu-Ende”)
 ausgerichtet, indem wir die Kombination aus Produkt, Zugangsweg und Serviceangebot berücksichtigen.
 
-SIGNAL IDUNA 76
+ 76
 
 
 Mehr Nutzen Produkt & Preis
@@ -2048,7 +2048,7 @@ digitalen Ende-zu-Ende-Prozessierbarkeit von Kundenanliegen u. a. in Leistung/Sc
 unserer Nachhaltigkeitsstrategie
 - Ergänzende Mehrwertservices sind vom eigentlichen Versicherungsprodukt getrennt
 
-SIGNAL IDUNA 77
+ 77
 
 
 Mehr Nutzen Produkt & Preis
@@ -2068,7 +2068,7 @@ Langfristig beitragsstabilsten Versicherer
 4|  bKV-Produkte erreichen in 2030 eine Top-3
 Positionierung
 
-SIGNAL IDUNA 78
+ 78
 
 
 Mehr Nutzen
@@ -2080,7 +2080,7 @@ exzellente Partner vor Ort, der in der Kundenreise komplexe Sachverhalte und
 Vorgänge durch digitale und menschliche Beratung und Betreuung sowie nahtlose
 Zusammenarbeit mit dem Innendienst einfach und verständlich löst.
 
-SIGNAL IDUNA
+
 
 79
 
@@ -2105,7 +2105,7 @@ auch so wahrgenommen.
 Als vertrauensvoller Risikomanager und proaktiver Problemlöser stellen wir gemeinsam mit unseren Vermittlern die
 Bedürfnisse unserer Kunden in den Mittelpunkt.
 
-SIGNAL IDUNA 80
+ 80
 
 
 Mehr Nutzen Beratung & Betreuung
@@ -2137,7 +2137,7 @@ Beratung und Servicierung von Kundenanliegen
 - Nachhaltigkeitspräferenzen unserer Kunden bedienen wir und
 richten Beratungsansatz nach unser Nachhaltigkeitsstrategie aus
 
-SIGNAL IDUNA 81
+ 81
 
 
 Mehr Nutzen Beratung & Betreuung
@@ -2157,7 +2157,7 @@ R-NPS Subtreiber „Bestandsbetreuung” Liegt über Marktdurchschnitt bei einer
 85 % unserer Kunden sind digitale Bestandskunden
 
 
-SIGNAL IDUNA 82
+ 82
 
 
 Mehr Nutzen
@@ -2171,7 +2171,7 @@ digitale und menschliche Serviceleistung in
 Echtzeit durch die Unterstützung von Daten
 und Künstlicher Intelligenz.
 
-SIGNAL IDUNA
+
 
 83
 
@@ -2187,12 +2187,12 @@ Als Smart Insurance Assistant begleiten wir Kunden auf Basis von Daten und Kl pr
 3 | Wir leiten den Kunden gezielt zum optimalen Lösungsweg für sein Anliegen.
 4 | Wir bieten unseren Kunden Anliegen in real-time und wenn möglich fallabschließenden Self-Service an.
 5 | Wir nutzen Daten um das Serviceerlebnis in der Kundenwahrnehmung hyperpersonalisiert zu gestalten.
-6 | SI-Agenturen und zentrale Serviceeinheiten treten als eine SIGNAL IDUNA beim Kunden auf.
+6 | SI-Agenturen und zentrale Serviceeinheiten treten als eine  beim Kunden auf.
 7 | Unser Service wird durch mehrwertbringende Zusatzleistungen komplettiert.
 8 | Wir sprechen die Sprache unserer Kunden.
 
 
-SIGNAL IDUNA 84
+ 84
 
 
 Mehr Nutzen © Service
@@ -2213,7 +2213,7 @@ und transparenten Service
 Als Smart Insurance Assistant begleiten wir Kunden auf
 Basis von Daten und Kl proaktiv und bedürfnisorientiert:
 - Der Kunde bringt sein Anliegen über ein Conversational Al
-Service Hub auf die SIGNAL IDUNA zu
+Service Hub auf die  zu
 - Der Kunde erlebt dabei keine Differenzierung
 - Durch die Vorqualifizierung und Authentifizierung im Hub ist
 eine klare Erkennung des Anliegens möglich
@@ -2249,7 +2249,7 @@ Wesentliche Indikatoren zur Erfolgsmessung bis 2030
 3|  Steigerung des NPS durch proaktiven und bedürfnis-orientierten Service durch gezielten persönlichen Kontakt
 
 
-SIGNAL IDUNA 87
+ 87
 
 
 Mehr Nutzen
@@ -2262,7 +2262,7 @@ werden. Unsere Kunden vertrauen unserer Marke und wir
 transportieren über die Interaktion positive Emotionen und das
 „füreinander da-Gefühl”.
 
-SIGNAL IDUNA
+
 
 88
 
@@ -2276,19 +2276,19 @@ Kundenerlebnis
 Mehr Nutzen für unsere Kunden und Vertriebspartner durch erkennbare
 Differenzierung über unser exzellentes Kundenerlebnis
 
-SIGNAL IDUNA 89
+ 89
 
 Kundenerlebnis: Unsere begeisternden Kundenerfahrungen sowie das konsistente Erlebnis unserer Kunden und
 Vertriebspartner sind unser Differenzierungsmerkmal, mit dem wir uns von relevanten Marktteilnehmern erkennbar
 unterscheiden.
 
 Loyalität: In einer sich verändernden Welt ist das Vertrauen unserer Kunden auf uns als verlässlicher Partner und ihre
-Loyalität der Motor unseres Wachstums. Unsere Kunden sind Fans der SIGNAL IDUNA, so dass wir von der nachhaltigen
+Loyalität der Motor unseres Wachstums. Unsere Kunden sind Fans der , so dass wir von der nachhaltigen
 Beziehung zu Ihnen durch Cross-/Upsell und Weiterempfehlung profitieren und ökonomischen Erfolg generieren.
 
 Emotionalisierung: Unsere Marke steht für den Kunden als Garant für positive Erlebnisse auf Augenhöhe - Kunden
 erleben uns menschlich, mutig und aufmerksam. Wir positionieren unsere VVaG-Rechtsform und machen das
-„füreinander da” erlebbar - der Kunde fühltsich als Teil der „SIGNAL IDUNA-Familie”.
+„füreinander da” erlebbar - der Kunde fühltsich als Teil der „-Familie”.
 
 Kundenreisen: Unsere Kundenreisen bieten in ihrer Gesamtheit stimmige Erlebnisse im Einklang mit unseren Produkt- und
 Markenversprechen. Die Produkte und Services werden dazu über alle Funktionsbereiche betrachtet und als
@@ -2353,7 +2353,7 @@ Wesentliche Indikatoren zur Erfolgsmessung bis 2030
 3 | Reduktion und Stabilisierung der Beschwerdequoten aller Sparten
 4 |  Erreichung sowie kontinuierliche Anhebung aller Servicelevel (SL) über alle Kontaktkanäle
 
-SIGNAL IDUNA 91
+ 91
 
 
 Mehr Nutzen
@@ -2378,7 +2378,7 @@ Kunden durch intelligente,
 ganzheitliche Leistungspakete
 und Ökosysteme generieren.
 
-SIGNAL IDUNA
+
 
 
 
@@ -2423,7 +2423,7 @@ digitalen und einzigartigen Lösungen als Mehrwertleistungen, die
 unser Kerngeschäft ergänzen und uns im Markt erkennbar
 differenzieren.
 
-SIGNAL IDUNA 95
+ 95
 
 
 Mehr Neues @ Lösungsanbieter
@@ -2455,7 +2455,7 @@ Um unser Kerngeschäft mit versicherungsnahen und -fremden Lösungen zu ergänze
 Lösungen für den Kunden anbieten zu können. So schaffen wir gemeinsam mit unseren Partnern Mehrwerte für unsere
 Kunden.
 
-SIGNAL IDUNA 96
+ 96
 
 
 Mehr Neues @ Lösungsanbieter
@@ -2463,7 +2463,7 @@ Mehr Neues @ Lösungsanbieter
 Unser Lösungsanbieteransatz hat zum Ziel, auch Kundenbedürfnisse
 abzudecken, die über den reinen Versicherungsschutz hinausgehen
 
-Lösungsanbieteransatz der SIGNAL IDUNA
+Lösungsanbieteransatz der 
 
 Was macht unseren Lösungsanbieteransatz aus?
 - Wir agieren als Lösungsanbieter, indem wir unseren Kunden Leistungen anbieten, die über den
@@ -2527,7 +2527,7 @@ organisatorisch und kulturell anschlussfähig für eine
 Skalierung mit weiteren Partnern für neue Ökosysteme in
 anderen Lebenswelten.
 
-SIGNAL IDUNA
+
 
 99
 
@@ -2565,7 +2565,7 @@ von Partnern in unsere und in fremde Ökosysteme. Dabei nutzen wir die Chancen v
 Daten über APIs mit Dritten teilen)*, um die Zusammenarbeit mit Partnern (z. B. InsurTechs) in Okosystemen zu vereinfachen.
 
 
-SIGNAL IDUNA 100
+ 100
 
 
 Mehr Neues @ Ökosysteme
@@ -2603,7 +2603,7 @@ Orchestrator hält ggf. die Hoheit über die Kundenschnittstelle
 Ökosystemen zu positionieren. Mit Embedded Insurance positionieren wir uns hier
 außerdem in Ökosystemen von Anbietern Erneuerbarer Energien (Hersteller, Plattformen, etc.)
 
-SIGNAL IDUNA 101
+ 101
 
 
 Mehr Neues Okosysteme
@@ -2636,7 +2636,7 @@ dient als Ausgangspunkt
 
 Mehr Neues @ Ökosysteme
 
-Das Ökosystem Gesundheit hat Vorteile für Kunden und SIGNAL IDUNA
+Das Ökosystem Gesundheit hat Vorteile für Kunden und 
 
 
 Ziele des Ökosystems Gesundheit
@@ -2666,7 +2666,7 @@ differenzieren uns beim Kunden
 - EarlyMover Advantage: Ökosystem Gesundheit in der PKV noch mit geringer Marktdurchdringung
 
 
-SIGNAL IDUNA 103
+ 103
 
 
 Mehr Neues @ Ökosysteme
@@ -2682,7 +2682,7 @@ digitale Bestandskundenquote erhöht sich
 3 | Ökosystem Gesundheit: Gewinnung von kumuliert - 30 Tsd. Kunden über erfolgreiche Weiterempfehlungen aufgrund
 eines um 13 % gesteigerten Anteils von Promotoren in der KV, insb. innerhalb der Zielgruppen
 
-SIGNAL IDUNA 104
+ 104
 
 
 Mehr Neues
@@ -2696,7 +2696,7 @@ und Leistungs-/Schadenbearbeitung. Dafür nutzen wir künstliche
 Intelligenz zielgerichtet und unsere Geschäftsprozess-Plattform
 zur Steigerung der digitalen Bearbeitung von Geschäftsvorfällen.
 
-SIGNAL IDUNA
+
 
 105
 
@@ -2767,7 +2767,7 @@ Fallabschlussquoten und optimieren Prozesse.
 Auf Grundlage von Cloud-Plattformen und generativer Kl digitalisieren wir unsere
 gesamte Wertschöpfungskette.
 
-SIGNAL IDUNA 108
+ 108
 
 
 Mehr Neues Digitalisierung
@@ -2782,10 +2782,10 @@ Kundenschnittstelle bis zum Kundenfeedback.
 Mehr Neues © Digitalisierung
 
 Die Digitalisierungsquote misst den Grad der digitalen Verarbeitung von
-Kunden- und Vertriebsanliegen der SIGNAL IDUNA
+Kunden- und Vertriebsanliegen der 
 
 Arbeitsdefinition:
-Digitalisierungsquote misst den Grad der digitalen Verarbeitung von Kunden- und Vertriebsanliegen der SIGNAL IDUNA. Sie basiert auf
+Digitalisierungsquote misst den Grad der digitalen Verarbeitung von Kunden- und Vertriebsanliegen der . Sie basiert auf
 Messwerten, Indikatoren und die Summierung dieser, über die gesamte Bearbeitungstrecke und setzt diese in Relation zueinander.
 
 
@@ -2823,7 +2823,7 @@ Datenkompetenz und der Unterstützung von generativer Kl nutzen wir
 unsere qualitativ hochwertigen Daten konzernweit für eine 360-Grad-
 Sicht auf den Kunden und zur Beschleunigung von Prozessen.
 
-SIGNAL IDUNA
+
 
 112
 
@@ -2860,7 +2860,7 @@ erschließen und eine datengetriebene Kultur schaffen.
 Ganzheitliches Data Governance, hohe Datenqualität und umfassende Kompetenzen und Fähigkeitengewährleisten
 datenbasierte Entscheidungen und Innovationen in unseren Produkt- und Service-Welten
 
-SIGNAL IDUNA 113
+ 113
 
 Mehr Neues @ Dateninnovation
 
@@ -2911,7 +2911,7 @@ Moderne und abgestimmte Technologien
 - Bereitstellung von modernen, zeitgemäßen Tools und Technologien, insbesondere für den Einsatz von (generativer) Kl
 — Moderne und automatisierte Datenversorgung für eine schnellere Umsetzung datenbasierter Use Cases
 
-SIGNAL IDUNA 114
+ 114
 
 
 Mehr Neues @ Dateninnovation
@@ -2929,7 +2929,7 @@ Wesentliche Indikatoren zur Erfolgsmessung bis 2030:
 6 |  Nutzung von Real-Time-Daten aus externen Quellen für versicherungstechnische Anwendundsfälle
 
 
-SIGNAL IDUNA 115
+ 115
 
 
 
@@ -2951,7 +2951,7 @@ realisieren und zudem Kosten
 sowie Versicherundstechnik
 exzellent beherrschen.
 
-SIGNAL IDUNA
+
 
 
 Unsere Bausteine im Handlungsfeld
@@ -3001,7 +3001,7 @@ Entwicklungszustand gemessen am Markt und ist durch
 Technologieoffenheit und Anschlussfähigkeit für
 weiteres Wachstum skalierbar.
 
-SIGNAL IDUNA
+
 
 118
 
@@ -3030,7 +3030,7 @@ Zielplattform für die Umsetzung neuer Initiativen und Vorhaben.
 
 Unter Gewährleistung eines stabilen IT-Betriebs und der Berücksichtigung von Regulatorik-Vorgaben
 
-SIGNAL IDUNA 119
+ 119
 
 
 
@@ -3070,11 +3070,11 @@ im Gesundheitssektor oder Risikoanalysen im Kompositbereich
 Cybersecurity
 Hochrelevante und geschäftskritische Capability in allen Branchen sowohl für
 bestehende und neue Geschäftsmodelle - z. B. zur Vernetzung von Ökosystemen
-innerhalb und außerhalb der SIGNAL IDUNA und zur sicheren Betreuung ihrer
+innerhalb und außerhalb der  und zur sicheren Betreuung ihrer
 Kunden
 
 
-SIGNAL IDUNA
+
 
 Mehr Wirkung © Technologie
 
@@ -3091,7 +3091,7 @@ Wesentliche Indikatoren zur Erfolgsmessung bis 2030
 4 | Wir migrieren unsere Anwendungen sukzessive von der OnPremise-Welt in die Cloud
 5 | Wir erhöhen unsere operative IT-Stabilität konsequent weiter
 
-SIGNAL IDUNA 121
+ 121
 
 
 Mehr Wirkung
@@ -3108,7 +3108,7 @@ Effizienzeffekte, durch die nie unsere
 menschlichen Ressourcen im Optimum
 produktiv und wirksam einsetzen.
 
-SIGNAL IDUNA
+
 
 
 Mehr Wirkung © Effizienz
@@ -3128,7 +3128,7 @@ a. Transparenz und erzielt einen positiven Effekt für unsere Kunden und Partner
 modernster Technologien (u. a. generativer Kl), um einen Effizienzsprung in allen Bereichen des Unternehmens zu
 realisieren.
 
-SIGNAL IDUNA 123
+ 123
 
 
 Mehr Wirkung © Effizienz
@@ -3173,7 +3173,7 @@ und Kunden durch Einsatz von generativer KI in allen geeigneten Prozessen, Produ
 und Services im Vordergrund.
 
 
-SIGNAL IDUNA
+
 
 
 Mehr Wirkung © Effizienz
@@ -3247,7 +3247,7 @@ der Operationalisierung weiter ausgestaltet und geschärft
 NORDSTERN
 
 NUTZEN HEBEN
-Generative Kl zahlt direkt auf die Ziele der Konzernstrategie der SIGNAL IDUNA ein und ist
+Generative Kl zahlt direkt auf die Ziele der Konzernstrategie der  ein und ist
 durch Effizienz- und Effektivitätsgewinne ein wesentlicher Treiber für die Erreichung unserer
 Ambitionsfelder. Dabei prüfen wir den Einsatz von generativer Kl entlang aller Kundenanliegen
 und setzen die Technologie potenzialgetrieben ein.
@@ -3495,7 +3495,7 @@ Kundenfoku Regulatorik bieten den
 
 optimalen Handlungsrahmen.
 
-SIGNAL IDUNA
+
 
 
 
@@ -3647,7 +3647,7 @@ Wir haben einen erkennbaren Marktvorteil, indem wir unsere Investitionsfähidkei
 durch ein wettbewerbsfähiges Kostenniveau in der gesamten Organisation sowie
 durch die Realisierung von Effizienzgewinnen durch Technologie steigern.
 
-SIGNAL IDUNA
+
 
 
 Mehr Wirkung © Kostenverantwortung
@@ -3664,7 +3664,7 @@ unsere Wettbewerbsfähigkeit und erhöhen unsere Investitionsfähigkeit.
 
 Durch die verursachungsgerechte Kostenverzielung erreichen wir unsere definierten Kostenziele.
 
-SIGNAL IDUNA 139
+ 139
 
 
 Mehr Wirkung Kostenverantwortung
@@ -3697,7 +3697,7 @@ Kommunikation Reporting bewusstsein zu entwickeln und danach zu handeln.
 
 & Befähigung & Analyse
 
-SIGNAL IDUNA 140
+ 140
 
 
 Mehr Wirkung Kostenverantwortung
@@ -3722,7 +3722,7 @@ Wir verfügen in allen Geschäftsfeldern durch unsere Technologie- und
 Datenfähigkeiten über versicherundgstechnische Exzellenz im Pricing, Underwriting
 und im Schaden-/Leistungsmanagement.
 
-SIGNAL IDUNA
+
 
 
 Mehr Wirkung
@@ -3762,7 +3762,7 @@ Ganzheitliche Nachhaltigkeitsausrichtung:
 Wir richten unseren versicherungstechnischen Wertschöpfungsprozess weitgehend ganzheitlich und gleichzeitig gezielt auf Nachhaltigkeits-
 aspekte aus und verzahnen ihn eng mit der übergreifenden Nachhaltidkeitsstrategie der Gesamtorganisation.
 
-SIGNAL IDUNA 143
+ 143
 
 
 Mehr Wirkung © Versicherungstechnik
@@ -3773,7 +3773,7 @@ Geschäftsfeldern und Wertschöpfungsschritten
 
 Versicherungstechnischer Wertschöpfungsprozess
 
-SIGNAL IDUNA
+
 
 Underwriting
 
@@ -3911,7 +3911,7 @@ Formalien spürbar reduziert und die Zusammenarbeit von
 Governance- und Business-Einheiten optimiert haben. Dies hat
 zur Verringerung nicht wertschöpfender Tätigkeiten geführt.
 
-SIGNAL IDUNA
+
 
 
 Mehr Wirkung
@@ -3949,14 +3949,14 @@ Unsere internen und externen Informations- und Berichtspflichten sind vereinfach
 gruppieren und die Berichte technisch unterstützt für alle Berechtigten jeweils einfach zugänglich machen. Anzahl, Turnus und Umfang von
 Berichten sowie manuelle Tätigkeiten haben wir optimiert.
 
-SIGNAL IDUNA 148
+ 148
 
 Mehr Wirkung Vereinfachung
 
 Die zunehmende Komplexitätin der Governance machen wir durch Hebel zur Vereinfachung beherrschbar
 
 Definition Governance
-Unter Governance verstehen wir bei SIGNAL IDUNA unser System und unsere Prozesse in der Aufbau- und Ablauf-
+Unter Governance verstehen wir bei  unser System und unsere Prozesse in der Aufbau- und Ablauf-
 organisation, die die Führung, Kontrolle und Entscheidungsfindung innerhalb der SI regeln. Sie beinhaltet einen
 ganzheitlichen und harmonisierten Ordnungsrahmen, der unter anderem Anforderungen aus Regulatorik, unsere
 eigenen internen Regelungen sowie unser Informations- und Berichtswesen zur Sicherstellung eines
@@ -4039,7 +4039,7 @@ einfach zugänglich.
 
 Mehr Wir
 
-SIGNAL IDUNA
+
 
 
 Mehr Wir
@@ -4056,7 +4056,7 @@ moderne Arbeitsformen einen
 Raum für Wirksamkeit und
 Entwicklung schaffen.
 
-SIGNAL IDUNA
+
 
 
 
@@ -4171,7 +4171,7 @@ Außenwelt sichtbar. Das Vorstandsteam fungiert dabei als Vorbild und unterstrei
 IDUNA. Die sichtbar gemachten Werte werden durch den kulturellen Wandel komplettiert, der kontinuierlich
 fortgeführt und von Führungskräften sowie Mitarbeitenden gelebt wird.
 
-Die Kultur der SIGNAL IDUNA ist facettenreich. Als datengetriebene Kultur stellen wir Daten in das Zentrum unseres
+Die Kultur der  ist facettenreich. Als datengetriebene Kultur stellen wir Daten in das Zentrum unseres
 Handelns. Wir basieren unsere Entscheidungen und auch unser hierarchieunabhängiges Feedback auf Fakten und
 Analysen und erreichen dadurch ein neues Level an Objektivität und Nachvollziehbarkeit. Verläuft etwas dennoch nicht
 nach Plan, sprechen wir als Teil unserer Fehlerkultur offen und proaktiv über Ursachen und ergreifen daraus
@@ -4404,7 +4404,7 @@ gezieltes Recruiting in die Lage, neue Technologie- und Marktentwicklungen mit e
 Wissensvorsprung zu meistern.
 
 Kompetenzen und Fähigkeiten sind die Grundlage für die
-Zukunftsfähigkeit von SIGNAL IDUNA
+Zukunftsfähigkeit von 
 
 Wir haben einen anregenden und zugänglichen Raum zum Lernen geschaffen und Mitarbeitende im Innen- und
 Außendienst erhalten in unserem Lernökosystem mit neuesten Technologien Informationen und Lerninhalte direkt und
@@ -4530,7 +4530,7 @@ stärkt das regulatorische Profil.
 
 Unsere Must-Wins setzen als erfolgskritische Basisvoraussetzungen den Fokus für die erste Etappe bis Ende 2025
 
-SIGNAL IDUNA
+
 
 Unsere sog. Must-Wins sind in unserer Unternehmensstrategie konkret
 benannte Ergebnisse in fünf zentralen Themenfeldern, die aufgrund ihrer
@@ -4710,7 +4710,7 @@ Strategie-Operationalisierung verfolgt drei wesentliche Ziele
 - Tiefes Verständnis und Begeisterung für die Strategie durch aktive Mitarbeit in der Organisation erzeugen und nachhaltig verankern
 
 
-SIGNAL IDUNA 162
+ 162
 
 Operationalisierung und Umsetzung beginnt nach Erstkommunikation der
 Strategie und findet jährlich bis 2030 statt
@@ -4772,7 +4772,7 @@ diversen Formaten Erstkommunikation Folgeformate
 PARTIZIPATIONSMODELL
 
 1. m Zusammenspiel mit QBRs.
-SIGNAL IDUNA Legende: © terminierte Formate 9 geplante Formate
+ Legende: © terminierte Formate 9 geplante Formate
 
 6
 
@@ -4997,7 +4997,7 @@ technologische Basis schaffen
 
 Fokussierte Umsetzung der Must-Wins und Leuchttürme Selektive Vorbereitungen weiterer Themen
 
-SIGNAL IDUNA 165
+ 165
 
 INHALTLICHE MITARBEIT
 6
@@ -5058,7 +5058,7 @@ m
 Must-Wins als Basisvoraussetzungen und Leuchttürme durch die komplementäre Adressierung von Wachstum, Kosten und
 der Organisationskultur generieren Beschleunigung des „Schwungrads” für die weitere Strategieumsetzung bis 2030
 
-SIGNAL IDUNA 166
+ 166
 
 
 
@@ -5104,7 +5104,7 @@ Wohnungswirtschaft) \ weitere Marktsegmente | optimierung (z.B.
 
 Schnittstellen)
 
-SIGNAL IDUNA 167
+ 167
 
 6
 
@@ -5185,7 +5185,7 @@ A+>-A 7 Wochen
 VoSi FüKo ISIP| ASR U STP&TMBO | Sulzburg NTMBON ABR
 21./22.5.24 28./29.5.24 18./19.7.24 25.-28.9.24 24./25.10.24
 
-SIGNAL IDUNA 5 168
+ 5 168
 4
 
 
@@ -5210,7 +5210,7 @@ Phase:
 
 Entwicklung planen
 
-SIGNAL IDUNA
+
 
 Fahrpläne für Must-Wins
 
@@ -5334,7 +5334,7 @@ für Folgejahr
 
 Key Results
 
-SIGNAL IDUNA " Vs aus
+ " Vs aus
 
 Konkrete zu
 erreichende Ergeb-
@@ -5434,7 +5434,7 @@ Strategieumsetzung zur Erreichung der umgesetzt werden.
 
 Ambition erforderlich ist.
 
-SIGNAL IDUNA +; Plusweitere Themen. B. aus Regulatorik. Fokus 2025 L 2026-2030 | 171
+ +; Plusweitere Themen. B. aus Regulatorik. Fokus 2025 L 2026-2030 | 171
 
 6
 
@@ -5482,7 +5482,7 @@ Festlegung aus regulatorischen
 Themen gemeinsam mit
 Governance-Funktionen
 
-SIGNAL IDUNA 172
+ 172
 
 6
 
@@ -5521,7 +5521,7 @@ Leuchtturm / Baustein Strategieteam
 173
 
 1. Falls inhaltlich sinnvoll, individuell zu entscheiden. .
-SIGNAL IDUNA 2. Beteiligung aus IT zur Aufnahme der IT- Besetzt aus
+ 2. Beteiligung aus IT zur Aufnahme der IT- Besetzt aus
 
 mplikationen in die BizTech-Roadmap.
 
@@ -5576,7 +5576,7 @@ Tätigkeiten mit der Innen-Perspektive, fundierter Fachexpertise und dem SI-Netz
 Weiterentwicklung der Leuchtturmthemen im Unternehmen sicher.
 
 * Kundschafter verantwortlich Br
-SIGNAL IDUNA | nterenzen. die der Kundschafter beispielwei hen könn Besetztaus ME nee 174
+ | nterenzen. die der Kundschafter beispielwei hen könn Besetztaus ME nee 174
 
 INHALTLICHE MITARBEIT
 6
@@ -5650,7 +5650,7 @@ Check-in Erfolge und ggf. Abweichungen/Roadblocks (One-pager) PUC
 
 
 
-SIGNAL IDUNA 175
+ 175
 
 INFORMATION & INTERAKTION
 
@@ -5671,7 +5671,7 @@ Lernerfahrungen aus der VISION2023 weiter genutzt und neue Formate entwickelt
 
 
 
-SIGNAL IDUNA 1 Erwartungshaltung im ID als auch AD liegt in der Erledigung der Must-Wins bevor neue Themen im großen Umfang angegangen werden (Quelle:Soundingboard mit Mitarbeitenden) 176
+ 1 Erwartungshaltung im ID als auch AD liegt in der Erledigung der Must-Wins bevor neue Themen im großen Umfang angegangen werden (Quelle:Soundingboard mit Mitarbeitenden) 176
 
 INFORMATION & INTERAKTION
 6
@@ -5686,7 +5686,7 @@ Bausteine setzen.
 
 Strategie herunterbrechen und adaptieren
 
-Die Strategieinhalte im Kontext der SIGNAL IDUNA betrachten
+Die Strategieinhalte im Kontext der  betrachten
 und was diese für die konkrete Arbeit bedeuten.
 
 
@@ -5703,7 +5703,7 @@ Auswirkungen einordnen.
 
 
 
-SIGNAL IDUNA
+
 
 177
 
@@ -5778,7 +5778,7 @@ der neuen Strategie
 
 
 
-SIGNAL IDUNA Zu sen
+ Zu sen
 
 Teilnahmen (exklusive Events für Gesamtbelegschaft (ID/AD)).
 
@@ -5825,7 +5825,7 @@ Schwerpunktsetzung für AD!
 
 
 
-SIGNAL IDUNA 179
+ 179
 
 INFORMATION & INTERAKTION BR TEN
 
@@ -5947,8 +5947,8 @@ der neuen Strategie
 
 
 
-SIGNAL IDUNA
 
-SIGNAL IDUNA m
+
+ m
 
 Nutzen wir das Momentum!
