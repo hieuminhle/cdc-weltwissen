@@ -16,7 +16,8 @@ from backend.utils import (vertexai_api,
                            sql_api,
                            agent_builder_api,
                            data_processing,
-                           constants)
+                           constants,
+                           speech_to_text_api)
 from backend.schemas.schemas import(Answer,
                                     ImageAnswer,
                                     Question,
@@ -308,6 +309,105 @@ def call_llm(request: Request, question: Question):
                     logger.warning(re)
                     quota_exceeded = True
                     continue
+        if quota_exceeded:
+            full_answer = constants.QUOTA_EXCEEDED_ERROR
+            errors.append(BackendError(
+                code="500",
+                msg=full_answer,
+                status="QUOTA_ERROR"
+            ))
+        history.append(Conversation(
+          question=question.question,
+          answer=full_answer
+        ))
+        storage_api.log_history(
+            session_id,
+            oid_hashed,
+            "text_chat",
+            history,
+            os.environ["CHATBOT_LOGGING_BUCKET"],
+        )
+        sql_api.log_usage(oid_hashed=oid_hashed, session_id=session_id, chat_type="text_chat", num_token_prompt=num_token_prompt, num_token_response=num_token_response, response_time=response_time)
+        logger.info(f"\nNutzerfrage: {question.question}\nAntwort: {full_answer}")
+        return Answer(
+            question=question.question,
+            answer=full_answer,
+            history=history,
+            errors=errors
+        )
+    except Exception as ex:
+        logger.exception("CDC-GenAI-Weltwissen-Backend-Textchat-Error: %s", ex)
+        return Response(content=str(ex), status_code=500)
+@app.post("/llm/speechtotext", response_model=Answer)
+def call_llm(request: Request, speech_question: SpeechQuestion):
+    """Processes a voice-input question
+    This method handles a question transcribed from voice input, potentially pseudonymizes it, and logs history to a storage bucket and updates usage metrics in a SQL table
+    Args:
+        request: The request
+        speech_question: The voice-input question
+    Returns:
+        A response containing:
+            - The question transcribed from voice input
+            - The answer
+            - The history
+            - The errors
+    """
+    logging.basicConfig(level=logging.INFO)
+    available_regions = ["europe-west3", "europe-west4", "europe-west1", "europe-west9"] # EU only, here: Frankfurt, Netherlands, Belgium, Paris
+    try:
+        # Transcribe the voice-input question
+        transcribed_question = speech_to_text_api.transcribe(speech_question.path)
+        # Create a Question-object with the transcribed prompt
+        question = Question(
+            question=transcribed_question,
+            history = speech_question.history, # Is logged in Cloud Storage Bucket
+            session_id = speech_question.session_id,
+            oid_hashed = speech_question.oid_hashed, 
+            apply_pseudonymization = speech_question.apply_pseudonymization 
+        )
+        if apply_pseudonymization: 
+            # Pseudonymize the prompt to replace PII before sending it to LLM
+            pseudonymized_prompt, replacement_mapping, _ = dlp_api.pseudonymize_text(prompt=question.question, project_id=PROJECT_ID) 
+        # Inspect whether the user prompt contains at personal sensitive information
+        dlp_response = dlp_api.inspect_prompt(
+            prompt=question.question,
+            project_id=PROJECT_ID,
+        )
+        quota_exceeded = False
+        # all vars for return type (default values) / except question and history
+        errors = []
+        full_answer = ""
+        # Sets default values for logging as these values are not provided in case DLP finds PII. -1 in the logging SQL table means that DLP findings > 0.
+        num_token_prompt = -1
+        num_token_response = -1
+        response_time = -1
+        if dlp_response["num_findings"] > 0 and apply_pseudonymization == False: 
+            full_answer = dlp_response["findings_formatted"]
+            errors.append(BackendError(
+                code="500",
+                msg=full_answer,
+                status="DLP_ERROR"
+            ))
+        else:
+            for region in available_regions:
+                try:
+                    result, response_time = vertexai_api.ask_gemini_textchat_question(
+                        prompt=question.question if not apply_pseudonymization else pseudonymized_prompt, 
+                        project_id=PROJECT_ID,
+                        history=question.history,
+                        location=region
+                    ) # Try to get an answer from the Vertex AI PaLM API endpoint. If the quota for that API is exceeded in this region the for-loop continues with the next region in the list defined above.
+                    pseudonymized_answer, num_token_prompt, num_token_response = result 
+                    full_answer,_ = dlp_api.restore_original_data(replacement_mapping, pseudonymized_answer) 
+                    quota_exceeded = False
+                    break
+                except Exception as e:
+                    logger.error(str(e))
+                    print(e)
+                except ResourceExhausted as re:
+                    logger.warning(re)
+                    quota_exceeded = True
+                    continue
 
         if quota_exceeded:
             full_answer = constants.QUOTA_EXCEEDED_ERROR
@@ -475,6 +575,7 @@ def call_llm(request: Request, question: ImageQuestion):
                         project_id=PROJECT_ID,
                         history=[],
                         location=region,
+                        aspect_ratio = question.aspect_ratio,
                         session_id=session_id) # Try to get an answer from the Vertex AI PaLM API endpoint. If the quota for that API is exceeded in this region the for-loop continues with the next region in the list defined above.
 
                     image_urls, en_prompt, errors = result
