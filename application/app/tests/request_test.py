@@ -34,7 +34,7 @@ eine eingeschlossene Leistungsabsicherung
 (Bruttobeitragsgarantie) wird über
 eine Anlage des dafür erforderlichen
 Vertragsguthabens im Sicherungsvermögen
-der SIGNAL IDUNA Lebensversicherung
+der 
 AG sichergestellt.
 Über unseren Spezialfonds SI BestInvest
 besteht darüber hinaus die Chance auf

@@ -1,8 +1,11 @@
-## GenerativeAI@SI Weltwissen: Backend
+## GenerativeAI Weltwissen: Backend
+
 #### Push des Docker Images
+
 Das Docker Image wid über gcloud builds "submit --project=PROJECT_ID --region=europe-west3 --tag=AR_PATH/IMAGE_NAME:latest" in die Artifact Registry gepusht.
 
 #### Integration in Cloud Run
+
 Die Umgebungsvariable "CHATBOT_LOGGING_BUCKET" muss gesetzt sein. Hier wird der Cloud Storage Bucket angegeben, in welchen die Chatbot-Konversationen geloggt werden.
 Die Application läuft standardmäßig auf Port 8080.
 
