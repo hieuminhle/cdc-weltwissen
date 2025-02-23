@@ -1,9 +1,9 @@
 <ZUSAMMENFASSUNG>
-Zusammenfassung des Strategiepapiers "MOMENTUM 2030" der SIGNAL IDUNA Gruppe
+Zusammenfassung des Strategiepapiers "MOMENTUM 2030" der  Gruppe
 Ausgangslage:
 
 Die Versicherungsbranche befindet sich in einem dynamischen Wandel, geprägt von Unsicherheit, neuen Technologien und veränderten Kundenbedürfnissen.
-SIGNAL IDUNA hat mit der vorherigen Strategie "VISION2023" wichtige Grundlagen für die Zukunft geschaffen, aber nicht alle Ambitionen erreicht.
+ hat mit der vorherigen Strategie "VISION2023" wichtige Grundlagen für die Zukunft geschaffen, aber nicht alle Ambitionen erreicht.
 Es besteht die Notwendigkeit, sowohl Stabilität im Kerngeschäft als auch Agilität für neue Herausforderungen zu gewährleisten.
 MOMENTUM 2030:
 
@@ -49,7 +49,7 @@ Die Fokussierung liegt zunächst auf den Must-Wins und den drei Leuchttürmen.
 Die Umsetzung wird durch eine systematische Governance begleitet und quartalsweise überwacht.
 Generative KI:
 
-SIGNAL IDUNA strebt eine führende Position beim Einsatz von generativer KI in der Versicherungsbranche an.
+ strebt eine führende Position beim Einsatz von generativer KI in der Versicherungsbranche an.
 Der Fokus liegt auf dem Nutzen für Mitarbeitende, Vertriebspartner und Kunden.
 Gen KI soll in allen geeigneten Prozessen, Produkten und Services eingesetzt werden.
 Zusammenarbeit:
@@ -67,7 +67,7 @@ Flexible Arbeitszeiten und -orte, moderne Büros und attraktive Benefits.
 Zielgruppengerechte Unterstützungsmaßnahmen, z. B. für Familien und Pflegende.
 Fazit:
 
-"MOMENTUM 2030" ist eine ambitionierte Strategie, die SIGNAL IDUNA für die Herausforderungen der Zukunft rüstet. Der Fokus liegt auf Kundenzufriedenheit, Wachstum und dem Einsatz neuer Technologien. Die erfolgreiche Umsetzung erfordert die volle Unterstützung aller Mitarbeitenden und eine agile, lernende Organisation.
+"MOMENTUM 2030" ist eine ambitionierte Strategie, die  für die Herausforderungen der Zukunft rüstet. Der Fokus liegt auf Kundenzufriedenheit, Wachstum und dem Einsatz neuer Technologien. Die erfolgreiche Umsetzung erfordert die volle Unterstützung aller Mitarbeitenden und eine agile, lernende Organisation.
 </ZUSAMMENFASSUNG>
 
 <FRAGENKATALOG>
@@ -75,7 +75,7 @@ Fazit:
 Was hat SI vor?
 </FRAGE1>
 <ANTWORT1>
-Das Dokument beschreibt die Unternehmensstrategie der SIGNAL IDUNA Gruppe mit dem Namen "MOMENTUM 2030". Die Strategie zielt darauf ab, das Unternehmen in einer sich dynamisch wandelnden Welt zukunftsfähig zu machen.
+Das Dokument beschreibt die Unternehmensstrategie der  Gruppe mit dem Namen "MOMENTUM 2030". Die Strategie zielt darauf ab, das Unternehmen in einer sich dynamisch wandelnden Welt zukunftsfähig zu machen.
 
 Kernelemente der Strategie:
 
@@ -94,20 +94,20 @@ Umsetzung:
 
 Die Strategie wird in einem partizipativen Prozess operationalisiert und umgesetzt. Dabei werden konkrete Handlungsbedarfe und Maßnahmen definiert, die in einem agilen Portfolioprozess gesteuert werden. Die Umsetzung der Strategie wird jährlich bis 2030 überprüft und angepasst.
 
-Zusammenfassend lässt sich sagen, dass SIGNAL IDUNA mit MOMENTUM 2030 eine ambitionierte Strategie verfolgt, die das Unternehmen zukunftsfähig machen soll. Der Fokus liegt dabei auf Kundenzufriedenheit, Wachstum und Innovation. Die Strategie wird in einem agilen und partizipativen Prozess umgesetzt.
+Zusammenfassend lässt sich sagen, dass  mit MOMENTUM 2030 eine ambitionierte Strategie verfolgt, die das Unternehmen zukunftsfähig machen soll. Der Fokus liegt dabei auf Kundenzufriedenheit, Wachstum und Innovation. Die Strategie wird in einem agilen und partizipativen Prozess umgesetzt.
 </ANTWORT1>
 <FRAGE2>
 Was ist die Strategie? Was ist Inhalt der Strategie?
 </FRAGE2>
 <ANTWORT2>
-Die Strategie von SIGNAL IDUNA heißt MOMENTUM 2030 und zielt darauf ab, das Unternehmen in einer sich dynamisch wandelnden Welt zukunftsfähig zu machen.
+Die Strategie von  heißt MOMENTUM 2030 und zielt darauf ab, das Unternehmen in einer sich dynamisch wandelnden Welt zukunftsfähig zu machen.
 
 Im Kern geht es darum:
 
-Kundenorientierung zu stärken: SIGNAL IDUNA will die Kundenzufriedenheit und -loyalität durch exzellente Produkte, Service und Beratung steigern.
+Kundenorientierung zu stärken:  will die Kundenzufriedenheit und -loyalität durch exzellente Produkte, Service und Beratung steigern.
 Neue Wachstumsfelder zu erschließen: Das Unternehmen will über das reine Versicherungsgeschäft hinausgehen und ganzheitliche Lösungen für Kundenprobleme anbieten, z.B. im Bereich der Erneuerbaren Energien und Finanzen.
 Technologie und Daten zu nutzen: Der Einsatz von Technologie, Daten und KI spielt eine zentrale Rolle in der Strategie, um Prozesse zu optimieren, Effizienz zu steigern und neue Geschäftsmodelle zu erschließen.
-Eine agile Organisation zu schaffen: SIGNAL IDUNA setzt auf ein lernendes, anpassungsfähiges und agiles Betriebssystem, um schnell auf Veränderungen reagieren zu können.
+Eine agile Organisation zu schaffen:  setzt auf ein lernendes, anpassungsfähiges und agiles Betriebssystem, um schnell auf Veränderungen reagieren zu können.
 Ein attraktiver Arbeitgeber zu sein: Das Unternehmen will durch attraktive Arbeitsbedingungen, moderne Arbeitsformen und ein positives Arbeitsumfeld die besten Talente gewinnen und binden.
 Die Strategie basiert auf fünf Handlungsfeldern:
 
@@ -126,23 +126,23 @@ Was bedeutet Momentum?
 
 Hier sind einige Aspekte, die "Momentum" im Kontext der Strategie verdeutlichen:
 
-Aufbauend auf Erfolgen: SIGNAL IDUNA hat mit der vorherigen Strategie "VISION2023" bereits wichtige Veränderungen angestoßen und Erfolge erzielt. Dieses positive Momentum soll nun genutzt werden, um die Transformation zu beschleunigen.
+Aufbauend auf Erfolgen:  hat mit der vorherigen Strategie "VISION2023" bereits wichtige Veränderungen angestoßen und Erfolge erzielt. Dieses positive Momentum soll nun genutzt werden, um die Transformation zu beschleunigen.
 Selbstverstärkender Effekt: Die Strategie soll wie ein Schwungrad funktionieren. Neue Formen der Zusammenarbeit, Kundenorientierung, neue Wachstumsfelder und Kooperationen sollen sich gegenseitig verstärken und immer wieder neues Momentum erzeugen.
-Dynamik und Agilität: "Momentum" steht auch für die Fähigkeit, schnell auf Veränderungen zu reagieren und Chancen zu nutzen. Die agile Organisation und der Fokus auf Innovationen sollen SIGNAL IDUNA die notwendige Flexibilität und Dynamik verleihen.
-Kontinuierliche Weiterentwicklung: Die Strategie ist nicht statisch, sondern wird fortlaufend überprüft und angepasst. So soll sichergestellt werden, dass das Momentum erhalten bleibt und SIGNAL IDUNA auch in Zukunft erfolgreich ist.
-Zusammenfassend lässt sich sagen, dass "Momentum" für SIGNAL IDUNA die treibende Kraft ist, die das Unternehmen in eine erfolgreiche Zukunft führen soll. Es geht darum, den Schwung der bisherigen Veränderungen zu nutzen, sich kontinuierlich weiterzuentwickeln und die Dynamik des Marktes für sich zu nutzen.
+Dynamik und Agilität: "Momentum" steht auch für die Fähigkeit, schnell auf Veränderungen zu reagieren und Chancen zu nutzen. Die agile Organisation und der Fokus auf Innovationen sollen  die notwendige Flexibilität und Dynamik verleihen.
+Kontinuierliche Weiterentwicklung: Die Strategie ist nicht statisch, sondern wird fortlaufend überprüft und angepasst. So soll sichergestellt werden, dass das Momentum erhalten bleibt und  auch in Zukunft erfolgreich ist.
+Zusammenfassend lässt sich sagen, dass "Momentum" für  die treibende Kraft ist, die das Unternehmen in eine erfolgreiche Zukunft führen soll. Es geht darum, den Schwung der bisherigen Veränderungen zu nutzen, sich kontinuierlich weiterzuentwickeln und die Dynamik des Marktes für sich zu nutzen.
 </ANTWORT3>
 <FRAGE4>
 Fass mir die Strategie zusammen
 </FRAGE4>
 <ANTWORT4>
-Die Unternehmensstrategie von SIGNAL IDUNA, MOMENTUM 2030, zielt darauf ab, das Unternehmen in einer sich dynamisch wandelnden Welt zukunftsfähig zu machen bzw. zu halten.
+Die Unternehmensstrategie von , MOMENTUM 2030, zielt darauf ab, das Unternehmen in einer sich dynamisch wandelnden Welt zukunftsfähig zu machen bzw. zu halten.
 
 Die Kernpunkte der Strategie sind:
-Kundenorientierung zu stärken: SIGNAL IDUNA will die Kundenzufriedenheit und -loyalität durch exzellente Produkte, Service und Beratung steigern.
+Kundenorientierung zu stärken:  will die Kundenzufriedenheit und -loyalität durch exzellente Produkte, Service und Beratung steigern.
 Neue Wachstumsfelder zu erschließen: Das Unternehmen will über das reine Versicherungsgeschäft hinausgehen und ganzheitliche Lösungen für Kundenprobleme anbieten, z.B. im Bereich der Erneuerbaren Energien und Finanzen.
 Technologie und Daten zu nutzen: Der Einsatz von Technologie, Daten und KI spielt eine zentrale Rolle in der Strategie, um Prozesse zu optimieren, Effizienz zu steigern und neue Geschäftsmodelle zu erschließen.
-Eine agile Organisation zu schaffen: SIGNAL IDUNA setzt auf ein lernendes, anpassungsfähiges und agiles Betriebssystem, um schnell auf Veränderungen reagieren zu können.
+Eine agile Organisation zu schaffen:  setzt auf ein lernendes, anpassungsfähiges und agiles Betriebssystem, um schnell auf Veränderungen reagieren zu können.
 Ein attraktiver Arbeitgeber zu sein: Das Unternehmen will durch attraktive Arbeitsbedingungen, moderne Arbeitsformen und ein positives Arbeitsumfeld die besten Talente gewinnen und binden.
 
 Die Strategie basiert auf fünf Handlungsfelder:
@@ -152,7 +152,7 @@ Mehr Neues: Nutzung von Technologie, Daten und digitalen Innovationen zur Generi
 Mehr Wirkung: Effiziente und wirkungsvolle Organisation mit Fokus auf Kostenverantwortung und Versicherungstechnik.
 Mehr Wir: Attraktiver Arbeitgeber mit zukunftsfähiger Kultur und modernen Arbeitsformen
 
-"Momentum" ist das Schlüsselwort der Strategie und beschreibt die treibende Kraft, die SIGNAL IDUNA nutzen will, um seine Ziele zu erreichen. Die Strategie soll wie ein Schwungrad funktionieren, bei dem sich die einzelnen Elemente gegenseitig verstärken und immer wieder neues Momentum erzeugen.
+"Momentum" ist das Schlüsselwort der Strategie und beschreibt die treibende Kraft, die  nutzen will, um seine Ziele zu erreichen. Die Strategie soll wie ein Schwungrad funktionieren, bei dem sich die einzelnen Elemente gegenseitig verstärken und immer wieder neues Momentum erzeugen.
 
 Die Umsetzung der Strategie erfolgt in einem agilen und partizipativen Prozess, in dem die Strategie jährlich bis 2030 überprüft und angepasst wird.
 </ANTWORT4>
@@ -160,16 +160,16 @@ Die Umsetzung der Strategie erfolgt in einem agilen und partizipativen Prozess, 
 Was sind die Kernaussagen?
 </FRAGE5>
 <ANTWORT5>
-Kernaussagen der SIGNAL IDUNA Unternehmensstrategie "MOMENTUM 2030":
-1. Zukunftsfähigkeit in einer dynamischen Welt: Die Strategie soll SIGNAL IDUNA auf die Herausforderungen einer sich schnell verändernden Welt vorbereiten, in der Agilität, Kundenorientierung und technologische Kompetenz entscheidend sind.
+Kernaussagen der  Unternehmensstrategie "MOMENTUM 2030":
+1. Zukunftsfähigkeit in einer dynamischen Welt: Die Strategie soll  auf die Herausforderungen einer sich schnell verändernden Welt vorbereiten, in der Agilität, Kundenorientierung und technologische Kompetenz entscheidend sind.
 
-2. Fokus auf den Kunden: SIGNAL IDUNA will die Kundenzufriedenheit und -loyalität durch exzellente Produkte, Service und Beratung steigern und sich als Partner im Lebensalltag der Kunden positionieren.
+2. Fokus auf den Kunden:  will die Kundenzufriedenheit und -loyalität durch exzellente Produkte, Service und Beratung steigern und sich als Partner im Lebensalltag der Kunden positionieren.
 
-3. Erschließung neuer Wachstumsfelder: Neben dem Kerngeschäft in der Versicherung will SIGNAL IDUNA neue Geschäftsfelder wie Erneuerbare Energien und Finanzprodukte erschließen und Marktanteile gewinnen.
+3. Erschließung neuer Wachstumsfelder: Neben dem Kerngeschäft in der Versicherung will  neue Geschäftsfelder wie Erneuerbare Energien und Finanzprodukte erschließen und Marktanteile gewinnen.
 
 4. Nutzung von Technologie und Daten: Digitalisierung und der Einsatz von Künstlicher Intelligenz (KI) spielen eine zentrale Rolle, um Prozesse zu optimieren, Effizienz zu steigern und neue Geschäftsmodelle zu entwickeln.
 
-5. Agile Organisation: SIGNAL IDUNA setzt auf ein lernendes, anpassungsfähiges und agiles Betriebssystem, um schnell auf Veränderungen reagieren zu können und die Organisation flexibler zu gestalten.
+5. Agile Organisation:  setzt auf ein lernendes, anpassungsfähiges und agiles Betriebssystem, um schnell auf Veränderungen reagieren zu können und die Organisation flexibler zu gestalten.
 
 6. Attraktiver Arbeitgeber: Das Unternehmen will durch attraktive Arbeitsbedingungen, moderne Arbeitsformen und eine positive Unternehmenskultur die besten Talente gewinnen und binden.
 
@@ -179,34 +179,34 @@ Kernaussagen der SIGNAL IDUNA Unternehmensstrategie "MOMENTUM 2030":
 
 9. Kontinuierliche Weiterentwicklung: Die Strategie ist nicht statisch, sondern wird jährlich bis 2030 überprüft und an neue Entwicklungen angepasst.
 
-Zusammenfassend: SIGNAL IDUNA will mit "MOMENTUM 2030" die Weichen für eine erfolgreiche Zukunft stellen, indem das Unternehmen die Kundenorientierung stärkt, neue Wachstumsfelder erschließt, Technologie und Daten nutzt, eine agile Organisation schafft und ein attraktiver Arbeitgeber ist.
+Zusammenfassend:  will mit "MOMENTUM 2030" die Weichen für eine erfolgreiche Zukunft stellen, indem das Unternehmen die Kundenorientierung stärkt, neue Wachstumsfelder erschließt, Technologie und Daten nutzt, eine agile Organisation schafft und ein attraktiver Arbeitgeber ist.
 </ANTWORT5>
 <FRAGE6>
 Was ist neu? Was ist anders als bei der VISION2023?
 </FRAGE6>
 <ANTWORT6>
-Die SIGNAL IDUNA Unternehmensstrategie "MOMENTUM 2030" baut zwar auf der vorherigen Strategie "VISION2023" auf, setzt aber neue Schwerpunkte und führt einige Neuerungen ein. Hier sind die wichtigsten Punkte, die neu sind:
+Die  Unternehmensstrategie "MOMENTUM 2030" baut zwar auf der vorherigen Strategie "VISION2023" auf, setzt aber neue Schwerpunkte und führt einige Neuerungen ein. Hier sind die wichtigsten Punkte, die neu sind:
 
 1. Neues Handlungsfeld "Mehr Wirkung":
-Dieses Handlungsfeld wurde neu eingeführt, um die Bedeutung von Effizienz, Kostenverantwortung und Versicherungstechnik zu unterstreichen. Es soll sicherstellen, dass SIGNAL IDUNA mit seinen Handlungen maximale Wirkung erzielt.
+Dieses Handlungsfeld wurde neu eingeführt, um die Bedeutung von Effizienz, Kostenverantwortung und Versicherungstechnik zu unterstreichen. Es soll sicherstellen, dass  mit seinen Handlungen maximale Wirkung erzielt.
 
 2. Stärkerer Fokus auf (generative) KI:
 MOMENTUM 2030 setzt einen klaren Fokus auf den Einsatz von generativer KI. Die Technologie soll in allen Bereichen des Unternehmens genutzt werden, um Prozesse zu optimieren, Effizienz zu steigern und neue Geschäftsmodelle zu entwickeln.
 
 3. Ausbau des Lösungsanbieteransatzes:
-SIGNAL IDUNA will sich noch stärker als Lösungsanbieter positionieren und über das reine Versicherungsgeschäft hinausgehen. Ganzheitliche Lösungen für Kundenprobleme, z.B. im Bereich der Erneuerbaren Energien und Finanzen, sollen entwickelt und angeboten werden.
+ will sich noch stärker als Lösungsanbieter positionieren und über das reine Versicherungsgeschäft hinausgehen. Ganzheitliche Lösungen für Kundenprobleme, z.B. im Bereich der Erneuerbaren Energien und Finanzen, sollen entwickelt und angeboten werden.
 
 4. Fokus auf Ökosysteme:
-Die Strategie betont die Bedeutung von Ökosystemen. SIGNAL IDUNA will in Ökosystemen wie Gesundheit, Heim & Haus und Mobilität aktiv sein und Mehrwerte für Kunden generieren.
+Die Strategie betont die Bedeutung von Ökosystemen.  will in Ökosystemen wie Gesundheit, Heim & Haus und Mobilität aktiv sein und Mehrwerte für Kunden generieren.
 
 5. Verstärkte Kundenorientierung:
-Die Kundenzufriedenheit steht im Mittelpunkt der Strategie. SIGNAL IDUNA will die Kundenreise optimieren, exzellente Kundenerlebnisse schaffen und die Kundenbindung stärken.
+Die Kundenzufriedenheit steht im Mittelpunkt der Strategie.  will die Kundenreise optimieren, exzellente Kundenerlebnisse schaffen und die Kundenbindung stärken.
 
 6. Anpassungsfähige Zielbilder:
-Statt auf starre Vorgaben setzt MOMENTUM 2030 auf anpassungsfähige Zielbilder. Die Strategie wird fortlaufend überprüft und an neue Entwicklungen angepasst, um sicherzustellen, dass SIGNAL IDUNA auch in Zukunft erfolgreich ist.
+Statt auf starre Vorgaben setzt MOMENTUM 2030 auf anpassungsfähige Zielbilder. Die Strategie wird fortlaufend überprüft und an neue Entwicklungen angepasst, um sicherzustellen, dass  auch in Zukunft erfolgreich ist.
 
 7. Stärkere Betonung der Lernkultur:
-Die Strategie betont die Bedeutung einer Lernkultur. SIGNAL IDUNA will eine Organisation schaffen, die sich kontinuierlich weiterentwickelt und neue Erkenntnisse schnell in die Praxis umsetzt.
+Die Strategie betont die Bedeutung einer Lernkultur.  will eine Organisation schaffen, die sich kontinuierlich weiterentwickelt und neue Erkenntnisse schnell in die Praxis umsetzt.
 
 Zusammenfassend: MOMENTUM 2030 ist eine Weiterentwicklung der vorherigen Strategie und setzt neue Schwerpunkte auf Wirkung, generative KI, Lösungsanbieteransatz, Ökosysteme, Kundenorientierung, Anpassungsfähigkeit und Lernkultur.
 </ANTWORT6>
@@ -232,48 +232,48 @@ Digitale Bestandskunden skalieren: Bis Ende 2025 skalieren wir unsere Kunden auf
 Was wollen wir bei KI machen?
 </FRAGE9>
 <ANTWORT9>
-SIGNAL IDUNA plant, Künstliche Intelligenz (KI), insbesondere generative KI, als integralen Bestandteil in allen Bereichen des Unternehmens einzusetzen, um Prozesse zu optimieren, Effizienz zu steigern und neue Geschäftsmodelle zu entwickeln.
+ plant, Künstliche Intelligenz (KI), insbesondere generative KI, als integralen Bestandteil in allen Bereichen des Unternehmens einzusetzen, um Prozesse zu optimieren, Effizienz zu steigern und neue Geschäftsmodelle zu entwickeln.
 
-Hier sind die wichtigsten Punkte, die SIGNAL IDUNA im Bereich KI plant:
+Hier sind die wichtigsten Punkte, die  im Bereich KI plant:
 
 1. Effizienzsteigerung und Automatisierung:
-Dunkelverarbeitung: SIGNAL IDUNA will den Anteil der Geschäftsvorgänge, die KI-unterstützt bearbeitet werden, deutlich erhöhen. Ziel ist es, Prozesse zu automatisieren und die manuelle Bearbeitung zu reduzieren.
+Dunkelverarbeitung:  will den Anteil der Geschäftsvorgänge, die KI-unterstützt bearbeitet werden, deutlich erhöhen. Ziel ist es, Prozesse zu automatisieren und die manuelle Bearbeitung zu reduzieren.
 Prozessoptimierung: KI soll zur Optimierung von Prozessen in allen Bereichen des Unternehmens eingesetzt werden, z.B. im Service, im Underwriting, im Schadenmanagement und in der Produktentwicklung.
 Predictive Workforce Management: KI soll zur Vorhersage von Personalbedarf und zur Optimierung der Personaleinsatzplanung genutzt werden.
 
 2. Personalisierung und Kundenzufriedenheit:
-Hyperpersonalisierte Ansprache: SIGNAL IDUNA will KI nutzen, um Kunden individuell anzusprechen und passgenaue Angebote zu erstellen.
+Hyperpersonalisierte Ansprache:  will KI nutzen, um Kunden individuell anzusprechen und passgenaue Angebote zu erstellen.
 Verbesserter Kundenservice: KI-gestützte Chatbots und virtuelle Assistenten sollen den Kundenservice verbessern und die Bearbeitungszeiten verkürzen.
 Proaktives Gesundheitsmanagement: KI soll im Bereich der Krankenversicherung eingesetzt werden, um Kunden proaktiv zu beraten und zu unterstützen.
 
 3. Neue Geschäftsmodelle und Innovationen:
-Embedded Insurance: SIGNAL IDUNA will KI nutzen, um neue Embedded Insurance-Lösungen zu entwickeln und in Ökosysteme zu integrieren.
+Embedded Insurance:  will KI nutzen, um neue Embedded Insurance-Lösungen zu entwickeln und in Ökosysteme zu integrieren.
 Dateninnovationen: KI soll eingesetzt werden, um neue Erkenntnisse aus Daten zu gewinnen und innovative Produkte und Services zu entwickeln.
 
 4. Agile Organisation und Kompetenzen:
-Befähigung der Mitarbeitenden: SIGNAL IDUNA will alle Mitarbeitenden im Umgang mit KI schulen und befähigen, die Technologie wertstiftend einzusetzen.
+Befähigung der Mitarbeitenden:  will alle Mitarbeitenden im Umgang mit KI schulen und befähigen, die Technologie wertstiftend einzusetzen.
 Integration in agile Strukturen: KI-Projekte sollen in die agile Organisation integriert und im Rahmen des agilen Portfolioprozesses gesteuert werden.
 
 5. Verantwortungsvoller Umgang mit KI:
-Einhaltung regulatorischer Anforderungen: SIGNAL IDUNA will sicherstellen, dass der Einsatz von KI den gesetzlichen und regulatorischen Rahmenbedingungen entspricht.
-Transparenz und Fairness: SIGNAL IDUNA will KI transparent und fair einsetzen und die Risiken der Technologie minimieren.
+Einhaltung regulatorischer Anforderungen:  will sicherstellen, dass der Einsatz von KI den gesetzlichen und regulatorischen Rahmenbedingungen entspricht.
+Transparenz und Fairness:  will KI transparent und fair einsetzen und die Risiken der Technologie minimieren.
 
-Zusammenfassend: SIGNAL IDUNA sieht KI als Schlüsseltechnologie für die Zukunft und plant, die Technologie in allen Bereichen des Unternehmens einzusetzen, um Effizienz zu steigern, die Kundenorientierung zu verbessern, neue Geschäftsmodelle zu entwickeln und eine agile Organisation zu schaffen.
+Zusammenfassend:  sieht KI als Schlüsseltechnologie für die Zukunft und plant, die Technologie in allen Bereichen des Unternehmens einzusetzen, um Effizienz zu steigern, die Kundenorientierung zu verbessern, neue Geschäftsmodelle zu entwickeln und eine agile Organisation zu schaffen.
 </ANTWORT9>
 <FRAGE10>
 Was sind unsere Werte?
 </FRAGE10>
 <ANTWORT10>
-SIGNAL IDUNA definiert in ihrer Strategie "MOMENTUM 2030" sechs Unternehmenswerte, die das Handeln aller Mitarbeitenden und Führungskräfte prägen sollen:
+ definiert in ihrer Strategie "MOMENTUM 2030" sechs Unternehmenswerte, die das Handeln aller Mitarbeitenden und Führungskräfte prägen sollen:
 
-Offenheit: SIGNAL IDUNA will offen für neue Ideen, Veränderungen und Perspektiven sein.
+Offenheit:  will offen für neue Ideen, Veränderungen und Perspektiven sein.
 Mut: Das Unternehmen will mutig neue Wege gehen, Innovationen vorantreiben und Risiken eingehen.
-Wertschätzung: SIGNAL IDUNA will seine Mitarbeitenden, Kunden und Partner wertschätzen und respektvoll miteinander umgehen.
+Wertschätzung:  will seine Mitarbeitenden, Kunden und Partner wertschätzen und respektvoll miteinander umgehen.
 Vertrauen: Das Unternehmen will ein vertrauensvolles Arbeitsumfeld schaffen, in dem sich die Mitarbeitenden wohlfühlen und ihr Potenzial entfalten können.
-Wertschöpfungsorientierung: SIGNAL IDUNA will nachhaltig wirtschaften und einen Mehrwert für seine Kunden, Partner und die Gesellschaft schaffen.
+Wertschöpfungsorientierung:  will nachhaltig wirtschaften und einen Mehrwert für seine Kunden, Partner und die Gesellschaft schaffen.
 Anstand: Das Unternehmen will integer und verantwortungsvoll handeln und sich an ethische Grundsätze halten.
 
-Diese Werte sollen nicht nur intern gelebt, sondern auch nach außen sichtbar gemacht werden. Das Vorstandsteam soll dabei als Vorbild fungieren und die Relevanz der Werte für SIGNAL IDUNA unterstreichen.
+Diese Werte sollen nicht nur intern gelebt, sondern auch nach außen sichtbar gemacht werden. Das Vorstandsteam soll dabei als Vorbild fungieren und die Relevanz der Werte für  unterstreichen.
 </ANTWORT10>
 <FRAGE11>
 Wie viel Bruttobeiträge will die SI 2030 erzielen?
@@ -293,18 +293,18 @@ Das Strategiepapier nennt eine Top-5 Platzierung im NPS-Ranking als Ziel für 20
 Fasse mir die Customer Journey für die Erneuerbaren Energien zusammen
 </FRAGE13>
 <ANTWORT13>
-Die SIGNAL IDUNA möchte im Markt der Erneuerbaren Energien als Lösungsanbieter für Privat- und Gewerbekunden auftreten und deckt dafür die gesamte Customer Journey ab.
+Die  möchte im Markt der Erneuerbaren Energien als Lösungsanbieter für Privat- und Gewerbekunden auftreten und deckt dafür die gesamte Customer Journey ab.
 
 Die Customer Journey lässt sich in folgende Phasen einteilen:
 
-Informieren & Aufmerksam werden: Kunden informieren sich über Erneuerbare Energien und werden auf die Lösungen der SIGNAL IDUNA aufmerksam, z.B. über Handwerker oder Plattformen
-Beratung & Vermittlung: Die SIGNAL IDUNA berät den Kunden zu seinen individuellen Bedürfnissen und vermittelt passende Finanzierungs- und Versicherungslösungen.
-Finanzierung & Versicherung: Die SIGNAL IDUNA stellt die Finanzierung des Projekts sicher, z.B. über die SIGNAL IDUNA Bausparkasse, und bietet passende Versicherungslösungen an.
-Installation: Die Installation der Erneuerbare Energien-Anlage erfolgt durch Partner der SIGNAL IDUNA, z.B. spezialisierte Handwerksbetriebe.
-Wartung, Service & Schaden: Die SIGNAL IDUNA bietet dem Kunden auch nach der Installation Wartung, Service und Schadenregulierung an.
+Informieren & Aufmerksam werden: Kunden informieren sich über Erneuerbare Energien und werden auf die Lösungen der  aufmerksam, z.B. über Handwerker oder Plattformen
+Beratung & Vermittlung: Die  berät den Kunden zu seinen individuellen Bedürfnissen und vermittelt passende Finanzierungs- und Versicherungslösungen.
+Finanzierung & Versicherung: Die  stellt die Finanzierung des Projekts sicher, z.B. über die  Bausparkasse, und bietet passende Versicherungslösungen an.
+Installation: Die Installation der Erneuerbare Energien-Anlage erfolgt durch Partner der , z.B. spezialisierte Handwerksbetriebe.
+Wartung, Service & Schaden: Die  bietet dem Kunden auch nach der Installation Wartung, Service und Schadenregulierung an.
 Zwei Umsetzungsstränge:
 
-Fall 1: SI als "Finanzieller Servicepartner" für Handwerksbetriebe: Der Handwerker ist im direkten Kontakt mit dem Kunden, erstellt ein Angebot und verknüpft dieses mit der SIGNAL IDUNA. Die SI berät den Kunden und stellt Finanzierung und Versicherung sicher. Der Handwerker setzt das Projekt um.
+Fall 1: SI als "Finanzieller Servicepartner" für Handwerksbetriebe: Der Handwerker ist im direkten Kontakt mit dem Kunden, erstellt ein Angebot und verknüpft dieses mit der . Die SI berät den Kunden und stellt Finanzierung und Versicherung sicher. Der Handwerker setzt das Projekt um.
 Fall 2: SI als "Wertschöpfungsketten-Orchestrator": Die SI generiert Kundenkontakte über spezialisierte Außendienstpartner, Handwerker oder Energieberater ("Push") oder über Plattformen und Hersteller ("Pull"). Die SI berät den Kunden, stellt Finanzierung und Versicherung bereit und orchestriert die Projektumsetzung über Partner.
 Vorteile für den Kunden:
 
@@ -312,20 +312,20 @@ Lösung aus einer Hand
 Rundumbetreuung in einer komplexen Customer Journey
 Absicherung und Finanzierung der neuen EE-Technologie
 Umfassende Beratung
-Vorteile für die SIGNAL IDUNA:
+Vorteile für die :
 
 Positionierung in einem wichtigen Markt
 Stärkung der Mehrwertleistungen für Kunden
 Attraktivitätsstärkung für Fremdagenturen und Zugangsgeber (Fall 2)
 Skalierungsmöglichkeit durch eine größere Gruppe potenzieller Zugangspartner (Fall 2)
 Zusätzliche Einnahmequellen: Zinserträge, Beitragseinnahmen, Provisionen
-Zusammenfassend lässt sich sagen, dass die SIGNAL IDUNA mit ihrem Lösungsanbieteransatz im Markt der Erneuerbaren Energien eine umfassende und kundenorientierte Lösung anbietet, die sowohl dem Kunden als auch dem Unternehmen Vorteile bringt.
+Zusammenfassend lässt sich sagen, dass die  mit ihrem Lösungsanbieteransatz im Markt der Erneuerbaren Energien eine umfassende und kundenorientierte Lösung anbietet, die sowohl dem Kunden als auch dem Unternehmen Vorteile bringt.
 </ANTWORT13>
 <FRAGE14>
 Wie hängt Digitalisierung mit dem Service Turnaround zusammen?
 </FRAGE14>
 <ANTWORT14>
-Die Digitalisierung spielt eine zentrale Rolle im Service-Turnaround der SIGNAL IDUNA. Sie ist der Enabler, um die ambitionierten Serviceziele zu erreichen und die Servicequalität nachhaltig zu verbessern.
+Die Digitalisierung spielt eine zentrale Rolle im Service-Turnaround der . Sie ist der Enabler, um die ambitionierten Serviceziele zu erreichen und die Servicequalität nachhaltig zu verbessern.
 
 Hier sind die wichtigsten Punkte, wie Digitalisierung und Service-Turnaround zusammenhängen:
 
@@ -336,22 +336,22 @@ Dunkelverarbeitung: Durch den Einsatz von Künstlicher Intelligenz (KI) können 
 Self-Services: Digitale Self-Services ermöglichen es den Kunden, viele Anliegen selbstständig online zu erledigen, z.B. Vertragsänderungen, Adressänderungen oder die Einsicht in ihre Vertragsunterlagen. Das erhöht die Convenience für den Kunden und reduziert die Anzahl der Anrufe im Service-Center.
 2. Transparenz und Echtzeit-Service:
 
-Digitale Kanäle: Die SIGNAL IDUNA bietet ihren Kunden verschiedene digitale Kanäle an, z.B. App, Portal, Chatbots, um mit dem Unternehmen zu kommunizieren. Das ermöglicht einen schnellen und transparenten Informationsaustausch.
+Digitale Kanäle: Die  bietet ihren Kunden verschiedene digitale Kanäle an, z.B. App, Portal, Chatbots, um mit dem Unternehmen zu kommunizieren. Das ermöglicht einen schnellen und transparenten Informationsaustausch.
 Echtzeit-Tracking: Durch die Digitalisierung können Kunden den Status ihrer Anliegen in Echtzeit verfolgen. Das schafft Transparenz und reduziert die Unsicherheit.
 3. Personalisierung und Kundenzentrierung:
 
-Datenanalyse: Durch die Analyse von Kundendaten kann die SIGNAL IDUNA die Bedürfnisse ihrer Kunden besser verstehen und personalisierte Serviceangebote entwickeln.
+Datenanalyse: Durch die Analyse von Kundendaten kann die  die Bedürfnisse ihrer Kunden besser verstehen und personalisierte Serviceangebote entwickeln.
 KI-gestützte Beratung: KI-basierte Chatbots und virtuelle Assistenten können Kunden individuell beraten und passende Lösungen vorschlagen.
 4. Verbesserte Zusammenarbeit:
 
 Digitale Tools: Digitale Tools wie Collaboration-Plattformen und Wissensdatenbanken ermöglichen eine effizientere Zusammenarbeit zwischen den Mitarbeitern im Service-Center und im Außendienst. Das sorgt für einen reibungslosen Informationsfluss und eine schnellere Problemlösung.
-Zusammenfassend lässt sich sagen, dass die Digitalisierung ein Schlüsselfaktor für den Service-Turnaround der SIGNAL IDUNA ist. Sie ermöglicht es dem Unternehmen, effizientere, transparentere, personalisierte und kundenorientierte Serviceleistungen anzubieten.
+Zusammenfassend lässt sich sagen, dass die Digitalisierung ein Schlüsselfaktor für den Service-Turnaround der  ist. Sie ermöglicht es dem Unternehmen, effizientere, transparentere, personalisierte und kundenorientierte Serviceleistungen anzubieten.
 </ANTWORT14>
 <FRAGE15>
 Wie erreicht die SI die Steigerung der Beitragseinnahmen?
 </FRAGE15>
 <ANTWORT15>
-Das Strategiepapier der SIGNAL IDUNA Gruppe nennt mehrere Ansätze, um die Beitragseinnahmen zu steigern. Hier sind die wichtigsten Punkte:
+Das Strategiepapier der  Gruppe nennt mehrere Ansätze, um die Beitragseinnahmen zu steigern. Hier sind die wichtigsten Punkte:
 
 1. Basiswachstum aus geschäftsfeldspezifischen Wachstumsfeldern
 Teil der GEschäftsfeldstrateien für Kranken, Leben, Komposit und Finanzprodukte: Geschäftsfeldspezifische Wachstumspotenziale im Vertriebswegemix sowie in den Fokus-Zielgruppen
@@ -360,7 +360,7 @@ Teil der GEschäftsfeldstrateien für Kranken, Leben, Komposit und Finanzprodukt
 Die SI fokussiert sich auf die geschäftsfeldübergreifenden Wachstumsfelder "Erneuerbare Energien" und "Mehr Finanzen", um zusätzliches Wachstum zu generieren.
 Embedded Insurance: Die SI etabliert neue Vertriebskanäle mit Embedded Insurance, um neue Kundengruppen zu erschließen und ihre Produkte in die Lebenswelten der Kunden zu integrieren.
 
-Zusammenfassend lässt sich sagen, dass die SIGNAL IDUNA Gruppe eine umfassende Strategie verfolgt, um die Beitragseinnahmen zu steigern. Diese Strategie basiert auf einer klaren Fokussierung auf Zielgruppen und der Erschließung neuer Wachstumsfelder.
+Zusammenfassend lässt sich sagen, dass die  Gruppe eine umfassende Strategie verfolgt, um die Beitragseinnahmen zu steigern. Diese Strategie basiert auf einer klaren Fokussierung auf Zielgruppen und der Erschließung neuer Wachstumsfelder.
 </ANTWORT15>
 <FRAGE16>
 Was bedeutet das für mich?
@@ -371,9 +371,9 @@ Unsere Unternehmensstrategie beschreibt durch ehrgeizige Zielbilder den gewünsc
 
 Die konkrete Bedeutung von MOMENTUM 2030 für individuelle Mitarbeitende kann sehr unterschiedlich sein und Bedarf einer genaueren Ableitung auf die konkrete Rolle und Aufgabe.
 
-Was für jeden gilt ist das Selbstverständnis der SIGNAL IDUNA, das in der Strategie beschrieben ist. Wir positionieren uns als Partner und als Lösungsanbieter, der den Kunden stets in den Mittelpunkt stellt.
+Was für jeden gilt ist das Selbstverständnis der , das in der Strategie beschrieben ist. Wir positionieren uns als Partner und als Lösungsanbieter, der den Kunden stets in den Mittelpunkt stellt.
 
-Als lernende Organisation sollte jeder einzelne bei SIGNAL IDUNA eine Wachstumsmentalität verinnerlichen, eine hohe Veränderungsbereitschaft haben und sich kontinuierlich weiterentwickeln.
+Als lernende Organisation sollte jeder einzelne bei  eine Wachstumsmentalität verinnerlichen, eine hohe Veränderungsbereitschaft haben und sich kontinuierlich weiterentwickeln.
 
 Nur durch eine hohe Kraftanstrengung jedes Einzelnen und eine hohe Leistungsbereitschaft können die großen Ambitionen erreicht werden.
 
@@ -383,7 +383,7 @@ Es geht darum, das Momentum zu nutzen.
 Ist mein Arbeitsplatz sicher?
 </FRAGE17>
 <ANTWORT17>
-Das Dokument beschreibt die Unternehmensstrategie der SIGNAL IDUNA Gruppe bis 2030. Es geht um die Anpassung an die sich verändernden Marktbedingungen und die Nutzung neuer Technologien wie KI und Cloud Computing.
+Das Dokument beschreibt die Unternehmensstrategie der  Gruppe bis 2030. Es geht um die Anpassung an die sich verändernden Marktbedingungen und die Nutzung neuer Technologien wie KI und Cloud Computing.
 
 Zur Frage der Arbeitsplatzsicherheit:
 
@@ -392,12 +392,12 @@ Das Dokument betont die Bedeutung von Effizienzsteigerungen durch Automatisierun
 Zusammenfassend:
 
 Das Dokument deutet an, dass es durch Automatisierung und Digitalisierung zu einem Veränderungsdruck auf die Arbeitsplätze kommen kann.
-Die SIGNAL IDUNA Gruppe setzt aber gleichzeitig auf Weiterbildung und neue Jobprofile, um die Mitarbeiter für die Zukunft zu rüsten.
+Die  Gruppe setzt aber gleichzeitig auf Weiterbildung und neue Jobprofile, um die Mitarbeiter für die Zukunft zu rüsten.
 Es ist daher schwierig, eine definitive Aussage über die Sicherheit einzelner Arbeitsplätze zu treffen. Es ist aber wahrscheinlich, dass sich die Arbeitsinhalte und -anforderungen in den kommenden Jahren verändern werden.
 
 Empfehlung:
 
-Informieren Sie sich über die konkreten Pläne der SIGNAL IDUNA Gruppe in Bezug auf Ihren Arbeitsbereich.
+Informieren Sie sich über die konkreten Pläne der  Gruppe in Bezug auf Ihren Arbeitsbereich.
 Nutzen Sie die Weiterbildungsangebote des Unternehmens, um Ihre Zukunftsfähigkeit zu sichern.
 Seien Sie offen für Veränderungen und neue Herausforderungen.
 Wichtig:
@@ -408,39 +408,39 @@ Diese Informationen basieren ausschließlich auf dem bereitgestellten Dokument. 
 Wie viele Mitarbeiter werden entlassen?
 </FRAGE18>
 <ANTWORT18>
-Der Text enthält keine Informationen über geplante Entlassungen. Der Text erwähnt jedoch, dass die SIGNAL IDUNA Gruppe bis 2030 altersbedingt 532 Mitarbeiter verlieren wird. Um den Personalbestand stabil zu halten, setzt das Unternehmen auf Recruiting, Personalentwicklung und Produktivitätssteigerungen durch technologischen Fortschritt.
+Der Text enthält keine Informationen über geplante Entlassungen. Der Text erwähnt jedoch, dass die  Gruppe bis 2030 altersbedingt 532 Mitarbeiter verlieren wird. Um den Personalbestand stabil zu halten, setzt das Unternehmen auf Recruiting, Personalentwicklung und Produktivitätssteigerungen durch technologischen Fortschritt.
 </ANTWORT18>
 <FRAGE19>
 Fasse mir den Lösungsanbieteransatz der SI zusammen
 </FRAGE19>
 <ANTWORT19>
-SIGNAL IDUNA möchte sich von einem reinen Kostenerstatter zu einem Lebensbegleiter entwickeln, der seinen Kunden ganzheitliche Lösungen anbietet, die über den reinen Versicherungsschutz hinausgehen.
+ möchte sich von einem reinen Kostenerstatter zu einem Lebensbegleiter entwickeln, der seinen Kunden ganzheitliche Lösungen anbietet, die über den reinen Versicherungsschutz hinausgehen.
 
 Kernpunkte des Lösungsanbieteransatzes:
 
-Mehrwert für den Kunden: SIGNAL IDUNA bietet Leistungen, die über den reinen Versicherungsschutz hinausgehen und einen echten Mehrwert für den Kunden schaffen.
-Vom Kostenerstatter zum Lebensbegleiter: SIGNAL IDUNA versteht sich nicht mehr nur als Schadenregulierer, sondern als Partner, der seine Kunden in allen Lebenslagen unterstützt, auch präventiv, um das Eintreten von Risiken zu vermeiden.
-Fokus auf den Kunden: Der Kunde steht im Mittelpunkt des Lösungsanbieteransatzes. SIGNAL IDUNA nutzt sein tiefes Zielgruppenverständnis und datengetriebene Vorgehensweise, um die Bedürfnisse seiner Kunden zu verstehen und passgenaue Lösungen zu entwickeln.
-Digitale Lösungen mit Partnern: SIGNAL IDUNA arbeitet mit Partnern zusammen, um innovative, digitale Lösungen zu entwickeln, die die Erwartungen der Kunden übertreffen. Die strategische Partnerschaft mit Google spielt dabei eine wichtige Rolle.
-Versicherungsnahe und -fremde Lösungen: SIGNAL IDUNA bietet sowohl versicherungsnahe Leistungen (z.B. Dienstleistungen, Services) als auch versicherungsfremde Lösungen an, die das Kerngeschäft ergänzen.
-B2B und B2C: Im B2B-Bereich konzentriert sich SIGNAL IDUNA auf die Lebenswelten „Banking & Finanzierung“ sowie „Finanzen & Bilanzierung“, im B2C-Bereich auf digitale Lösungen im Bereich der Kranken-, Pflege- und Kompositversicherungen.
+Mehrwert für den Kunden:  bietet Leistungen, die über den reinen Versicherungsschutz hinausgehen und einen echten Mehrwert für den Kunden schaffen.
+Vom Kostenerstatter zum Lebensbegleiter:  versteht sich nicht mehr nur als Schadenregulierer, sondern als Partner, der seine Kunden in allen Lebenslagen unterstützt, auch präventiv, um das Eintreten von Risiken zu vermeiden.
+Fokus auf den Kunden: Der Kunde steht im Mittelpunkt des Lösungsanbieteransatzes.  nutzt sein tiefes Zielgruppenverständnis und datengetriebene Vorgehensweise, um die Bedürfnisse seiner Kunden zu verstehen und passgenaue Lösungen zu entwickeln.
+Digitale Lösungen mit Partnern:  arbeitet mit Partnern zusammen, um innovative, digitale Lösungen zu entwickeln, die die Erwartungen der Kunden übertreffen. Die strategische Partnerschaft mit Google spielt dabei eine wichtige Rolle.
+Versicherungsnahe und -fremde Lösungen:  bietet sowohl versicherungsnahe Leistungen (z.B. Dienstleistungen, Services) als auch versicherungsfremde Lösungen an, die das Kerngeschäft ergänzen.
+B2B und B2C: Im B2B-Bereich konzentriert sich  auf die Lebenswelten „Banking & Finanzierung“ sowie „Finanzen & Bilanzierung“, im B2C-Bereich auf digitale Lösungen im Bereich der Kranken-, Pflege- und Kompositversicherungen.
 Differenzierungsmerkmale:
 
-Kostenfreie Leistungen: Viele versicherungsnahe Leistungen werden kostenfrei angeboten, da SIGNAL IDUNA von einer Verringerung der Schäden und einer gesteigerten Kundenbindung profitiert.
-Starke Marke: Die starke Marke SIGNAL IDUNA, insbesondere in den Fokuszielgruppen, schafft Vertrauen in die angebotenen Lösungen.
+Kostenfreie Leistungen: Viele versicherungsnahe Leistungen werden kostenfrei angeboten, da  von einer Verringerung der Schäden und einer gesteigerten Kundenbindung profitiert.
+Starke Marke: Die starke Marke , insbesondere in den Fokuszielgruppen, schafft Vertrauen in die angebotenen Lösungen.
 Starke Partnerschaften: Partnerschaften, insbesondere mit Google, ermöglichen die Entwicklung innovativer Lösungen und die Nutzung von Synergien.
 Wesentliche Indikatoren zur Erfolgsmessung:
 
 Neukundengewinnung durch Lösungsanbieteransätze
 Verringerung der Stornoquote durch begeisternde Lösungsanbieteransätze
 Netto-Einsparungen durch Präventionslösungen
-Zusammenfassend lässt sich sagen, dass SIGNAL IDUNA mit seinem Lösungsanbieteransatz eine zukunftsorientierte Strategie verfolgt, die auf die Bedürfnisse der Kunden ausgerichtet ist und das Unternehmen vom Wettbewerb differenziert.
+Zusammenfassend lässt sich sagen, dass  mit seinem Lösungsanbieteransatz eine zukunftsorientierte Strategie verfolgt, die auf die Bedürfnisse der Kunden ausgerichtet ist und das Unternehmen vom Wettbewerb differenziert.
 </ANTWORT19>
 <FRAGE20>
 Was beinhaltet das Ökosystem Gesundheit?
 </FRAGE20>
 <ANTWORT20>
-Das Ökosystem Gesundheit von SIGNAL IDUNA soll Gesundheit für die Kunden erlebbar machen und sie für ein gesundheitsbewusstes Verhalten belohnen.
+Das Ökosystem Gesundheit von  soll Gesundheit für die Kunden erlebbar machen und sie für ein gesundheitsbewusstes Verhalten belohnen.
 
 Kernpunkte:
 
@@ -453,7 +453,7 @@ Statuslevel
 Rabatte
 Geldprämien
 Zielgruppe: Das Ökosystem ist offen für alle Kunden, fokussiert sich aber in seiner Ausrichtung auf gesundheitsbewusste Zusatz- und Vollversicherte zwischen 21 und 40 Jahren.
-Zukünftige Ausbaustufen: SIGNAL IDUNA plant, das Ökosystem sukzessive auszubauen. Denkbar sind:
+Zukünftige Ausbaustufen:  plant, das Ökosystem sukzessive auszubauen. Denkbar sind:
 Individuelle persönliche und automatisierte Coaching-Angebote
 Plattform zur moderierten Vernetzung für lokale Events und digitale Challenges
 Vorteile für Kunden:
@@ -461,7 +461,7 @@ Vorteile für Kunden:
 Förderung eines gesundheitsbewussten Verhaltens
 Attraktive Prämien und Vorteile
 Zugang zu verschiedenen Gesundheitsangeboten
-Vorteile für SIGNAL IDUNA:
+Vorteile für :
 
 Steigerung der Kundenzufriedenheit und -bindung
 Reduktion von Leistungsausgaben durch Prävention
@@ -474,27 +474,27 @@ Bestehende Basis an angebundenen Lösungsanbietern (z.B. im Rahmen der SI-Gesund
 Starke Partnerschaften (z.B. Google) zur Erleichterung der Integration von Lösungen und Nutzung von KI
 Hohe Nutzerfreundlichkeit und nahtloses Kundenerlebnis
 Early-Mover-Vorteil in einem Markt mit noch geringer Marktdurchdringung
-Zusammenfassend lässt sich sagen, dass SIGNAL IDUNA mit seinem Ökosystem Gesundheit ein innovatives und attraktives Angebot für seine Kunden schafft, das gleichzeitig positive Effekte für das Unternehmen generiert.
+Zusammenfassend lässt sich sagen, dass  mit seinem Ökosystem Gesundheit ein innovatives und attraktives Angebot für seine Kunden schafft, das gleichzeitig positive Effekte für das Unternehmen generiert.
 </ANTWORT20>
 <FRAGE21>
 Was hat die SI bezüglich Digitalisierung vor?
 </FRAGE21>
 <ANTWORT21>
-SIGNAL IDUNA setzt auf Digitalisierung als Enabler, um seine Serviceambitionen zu unterstützen und die Effizienz zu steigern.
+ setzt auf Digitalisierung als Enabler, um seine Serviceambitionen zu unterstützen und die Effizienz zu steigern.
 
 Kernpunkte der Digitalisierungsstrategie:
 
-Geschäftsprozess-Plattform: SIGNAL IDUNA hat seine Systemlandschaft zu digitalen Assets weiterentwickelt und zu einer Plattform verbunden, um die effiziente Bearbeitung von Kunden- und Vermittleranliegen zu ermöglichen.
+Geschäftsprozess-Plattform:  hat seine Systemlandschaft zu digitalen Assets weiterentwickelt und zu einer Plattform verbunden, um die effiziente Bearbeitung von Kunden- und Vermittleranliegen zu ermöglichen.
 Künstliche Intelligenz (KI): KI wird zielgerichtet eingesetzt, um Prozesse zu automatisieren und zu optimieren.
-Dunkelverarbeitung: SIGNAL IDUNA strebt eine hohe Dunkelverarbeitungsquote an, um manuelle Aufwände zu reduzieren und die Bearbeitungsgeschwindigkeit zu erhöhen.
-Cloud-Transformation: SIGNAL IDUNA verlagert sukzessive Anwendungen in die Cloud, um von den Vorteilen der Skalierbarkeit und Flexibilität zu profitieren.
+Dunkelverarbeitung:  strebt eine hohe Dunkelverarbeitungsquote an, um manuelle Aufwände zu reduzieren und die Bearbeitungsgeschwindigkeit zu erhöhen.
+Cloud-Transformation:  verlagert sukzessive Anwendungen in die Cloud, um von den Vorteilen der Skalierbarkeit und Flexibilität zu profitieren.
 Ziele der Digitalisierung:
 
-Steigerung der Effizienz: SIGNAL IDUNA möchte durch Digitalisierung, Automatisierung und Dunkelverarbeitung wettbewerbsrelevante Skalen- und Effizienzeffekte erzielen.
-Verbesserung des Kundenerlebnisses: SIGNAL IDUNA möchte durch den Einsatz moderner Technologien ein schnelleres, einfacheres und transparenteres Kundenerlebnis schaffen.
-Steigerung der Produktivität: SIGNAL IDUNA möchte durch den Einsatz von KI die Produktivität in allen Bereichen des Unternehmens steigern.
-Verbesserung der Entscheidungsfindung: SIGNAL IDUNA möchte durch KI-gestützte Empfehlungen die Entscheidungsfindung im Underwriting- und Schadenprozess verbessern.
-Unterstützung des Vertriebs: SIGNAL IDUNA möchte den Vertrieb durch KI-gestützte Leadgenerierung und datenbasierte Erkenntnisse über Kunden unterstützen.
+Steigerung der Effizienz:  möchte durch Digitalisierung, Automatisierung und Dunkelverarbeitung wettbewerbsrelevante Skalen- und Effizienzeffekte erzielen.
+Verbesserung des Kundenerlebnisses:  möchte durch den Einsatz moderner Technologien ein schnelleres, einfacheres und transparenteres Kundenerlebnis schaffen.
+Steigerung der Produktivität:  möchte durch den Einsatz von KI die Produktivität in allen Bereichen des Unternehmens steigern.
+Verbesserung der Entscheidungsfindung:  möchte durch KI-gestützte Empfehlungen die Entscheidungsfindung im Underwriting- und Schadenprozess verbessern.
+Unterstützung des Vertriebs:  möchte den Vertrieb durch KI-gestützte Leadgenerierung und datenbasierte Erkenntnisse über Kunden unterstützen.
 Wesentliche Indikatoren zur Erfolgsmessung:
 
 Anzahl produktiv eingesetzter KI-Lösungen
@@ -504,20 +504,20 @@ Anteil digitaler Bestandskunden
 Anzahl registrierter Kunden und Verträge in App & Portal
 Die Digitale Fabrik:
 
-SIGNAL IDUNA plant die Etablierung einer "Digitalen Fabrik", die als Produktionshalle innerhalb der Geschäftsprozess-Plattform fungiert. Die Digitale Fabrik soll durch den Einsatz von KI, Automatisierung und Digitalisierung die Effizienz der Geschäftsprozesse weiter steigern.
+ plant die Etablierung einer "Digitalen Fabrik", die als Produktionshalle innerhalb der Geschäftsprozess-Plattform fungiert. Die Digitale Fabrik soll durch den Einsatz von KI, Automatisierung und Digitalisierung die Effizienz der Geschäftsprozesse weiter steigern.
 
-Zusammenfassend lässt sich sagen, dass SIGNAL IDUNA mit seiner Digitalisierungsstrategie eine umfassende Transformation des Unternehmens anstrebt, um zukunftsfähig zu bleiben und den Herausforderungen des digitalen Zeitalters zu begegnen.
+Zusammenfassend lässt sich sagen, dass  mit seiner Digitalisierungsstrategie eine umfassende Transformation des Unternehmens anstrebt, um zukunftsfähig zu bleiben und den Herausforderungen des digitalen Zeitalters zu begegnen.
 </ANTWORT21>
 <FRAGE22>
 Was bedeutet Mehr Lebensqualität?
 </FRAGE22>
 <ANTWORT22>
-"Mehr Lebensqualität" ist der Kern der Mission von SIGNAL IDUNA in ihrem Strategiepapier "MOMENTUM 2030". Sie definieren Lebensqualität durch drei Säulen:
+"Mehr Lebensqualität" ist der Kern der Mission von  in ihrem Strategiepapier "MOMENTUM 2030". Sie definieren Lebensqualität durch drei Säulen:
 
 Gesundheit: Prävention, optimale Versorgung im Krankheitsfall und Unterstützung bei der Gesundheitsvorsorge.
 Freizeit: Finanzielle Sicherheit, die Freiräume für individuelle Interessen, Reisen und persönliche Entfaltung schafft.
 Sicherheit: Absicherung von Risiken (finanziell und gesundheitlich), damit Kunden sorgenfrei ihr Leben gestalten können.
-SIGNAL IDUNA strebt "Mehr Lebensqualität" für ihre Kunden an, indem sie über das reine Versicherungsgeschäft hinausgeht. Die Strategie sieht vor, ein Lösungsanbieter zu werden, der seinen Kunden in verschiedenen Lebensphasen und -situationen zur Seite steht.
+ strebt "Mehr Lebensqualität" für ihre Kunden an, indem sie über das reine Versicherungsgeschäft hinausgeht. Die Strategie sieht vor, ein Lösungsanbieter zu werden, der seinen Kunden in verschiedenen Lebensphasen und -situationen zur Seite steht.
 
 Konkrete Beispiele:
 
@@ -525,7 +525,7 @@ Konkrete Beispiele:
 Wachstumsfeld "Erneuerbare Energien": Unterstützung bei der Planung und Finanzierung von Projekten im Bereich Erneuerbare Energien. Dies schafft finanzielle Sicherheit und leistet einen Beitrag zum Umweltschutz.
 Wachstumsfeld "Mehr Finanzen": Attraktive Kapitalanlage-, Bauspar- und Baufinanzierungsprodukte, die finanzielle Unabhängigkeit und Gestaltungsspielräume ermöglichen.
 Digitalisierung und KI: Vereinfachung und Beschleunigung von Prozessen, um Kunden mehr Zeit für die wichtigen Dinge im Leben zu geben.
-Zusammenfassend bedeutet "Mehr Lebensqualität" für SIGNAL IDUNA, ihre Kunden durch innovative Produkte, Services und Beratung ganzheitlich zu unterstützen und zu befähigen, ein selbstbestimmtes und sicheres Leben zu führen.
+Zusammenfassend bedeutet "Mehr Lebensqualität" für , ihre Kunden durch innovative Produkte, Services und Beratung ganzheitlich zu unterstützen und zu befähigen, ein selbstbestimmtes und sicheres Leben zu führen.
 </ANTWORT22>
 <FRAGE23>
 Wie wird sich meine Arbeit durch KI verändern?
@@ -556,9 +556,9 @@ KI-gestützte Analyse von Incidents: KI könnte Ihnen helfen, IT-Probleme schnel
 
 Generell:
 1 von 2 Rollenprofilen wird sich ändern: KI wird viele Aufgaben verändern und neue Jobprofile schaffen. Es ist wichtig, sich auf diese Veränderungen einzustellen und neue Fähigkeiten zu erlernen.
-100% der Mitarbeitenden werden generative KI in ihrer täglichen Arbeit nutzen: KI wird zu einem alltäglichen Werkzeug werden. SIGNAL IDUNA plant, alle Mitarbeitenden im Umgang mit KI zu schulen und zu befähigen.
+100% der Mitarbeitenden werden generative KI in ihrer täglichen Arbeit nutzen: KI wird zu einem alltäglichen Werkzeug werden.  plant, alle Mitarbeitenden im Umgang mit KI zu schulen und zu befähigen.
 
-Zusammenfassend lässt sich sagen, dass KI Ihre Arbeit bei SIGNAL IDUNA in vielerlei Hinsicht verändern wird. Es ist wichtig, offen für diese Veränderungen zu sein, sich neue Fähigkeiten anzueignen und die Chancen zu nutzen, die KI bietet.
+Zusammenfassend lässt sich sagen, dass KI Ihre Arbeit bei  in vielerlei Hinsicht verändern wird. Es ist wichtig, offen für diese Veränderungen zu sein, sich neue Fähigkeiten anzueignen und die Chancen zu nutzen, die KI bietet.
 
 In der Strategie wird die Bedeutung einer lernenden Organisation und einer Wachstumsmentalität betont. Es ist wichtig, sich kontinuierlich weiterzubilden und neue Technologien zu adaptieren, um in einem dynamischen Marktumfeld erfolgreich zu sein.
 </ANTWORT23>
@@ -568,7 +568,7 @@ In welchen Bereichen und Prozessen will die SI KI einsetzen?
 <ANTWORT24>
 Ein zentraler Bestandteil von MOMENTUM 2030 ist der Einsatz von Künstlicher Intelligenz (KI), insbesondere generativer KI, in allen Bereichen des Unternehmens.
 
-Die KI-Strategie der SIGNAL IDUNA lässt sich in folgenden Punkten zusammenfassen:
+Die KI-Strategie der  lässt sich in folgenden Punkten zusammenfassen:
 
 1. Einsatzbereiche von KI:
 Kundenanliegen: KI soll entlang der gesamten Wertschöpfungskette von Kundenanliegen eingesetzt werden, von der Produktentwicklung über den Vertrieb bis hin zum Kundenservice und der Leistungs-/Schadenbearbeitung.
@@ -596,7 +596,7 @@ Datengetriebene Kultur: Förderung einer datengetriebenen Kultur, in der Entsche
 5. Regulierung:
 Compliance: Einhaltung gesetzlicher und regulatorischer Rahmenbedingungen, insbesondere des EU AI Act.
 Verantwortungsvoller Umgang mit KI: Positionierung als vertrauensvoller Partner durch einen transparenten und verantwortungsvollen Umgang mit KI.
-Zusammenfassend lässt sich sagen, dass die SIGNAL IDUNA KI als einen zentralen Enabler für die Erreichung ihrer strategischen Ziele sieht. Das Unternehmen plant, KI in allen Bereichen einzusetzen, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen und neue Geschäftsmodelle zu erschließen.
+Zusammenfassend lässt sich sagen, dass die  KI als einen zentralen Enabler für die Erreichung ihrer strategischen Ziele sieht. Das Unternehmen plant, KI in allen Bereichen einzusetzen, um die Effizienz zu steigern, die Kundenzufriedenheit zu erhöhen und neue Geschäftsmodelle zu erschließen.
 </ANTWORT24>
 <FRAGE25>
 Was sind unsere Fokus Zielgruppen?
@@ -620,7 +620,7 @@ Die Zielkunden innerhalb dieser acht Fokus-Zielgruppen sind Unternehmen, Unterne
 In welchen Ländern möchte die SI Krankenversicherung anbieten?
 </FRAGE26>
 <ANTWORT26>
-Im Zielbild der Strategie bietet die SIGNAL IDUNA in 2030 Krankenversicherungen in Deutschland, Polen und Rumänien an.
+Im Zielbild der Strategie bietet die  in 2030 Krankenversicherungen in Deutschland, Polen und Rumänien an.
 </ANTWORT26>
 <FRAGE27>
 Was möchte die SI im Bereich B2B2C machen?
@@ -628,7 +628,7 @@ Was möchte die SI im Bereich B2B2C machen?
 <ANTWORT27>
 B2B2C-Strategie:
 
-Das Strategiepapier legt einen starken Fokus auf die B2B2C-Strategie. SIGNAL IDUNA will Marktführer in ihren acht Fokus-Zielgruppen aus den Branchen Handwerk, Handel und Dienstleistungen sowie Öffentlicher Dienst werden.
+Das Strategiepapier legt einen starken Fokus auf die B2B2C-Strategie.  will Marktführer in ihren acht Fokus-Zielgruppen aus den Branchen Handwerk, Handel und Dienstleistungen sowie Öffentlicher Dienst werden.
 
 Konkrete Maßnahmen im B2B2C-Bereich:
 
@@ -638,7 +638,7 @@ Spezialisierte Vertriebsstrukturen: Aufbau von Zielgruppenagenturen im Exklusivv
 Belegschaftsgeschäft: Ausbau des Belegschaftsgeschäfts mit attraktiven Branchenlösungen in der betrieblichen Kranken- und Unfallversicherung sowie Altersvorsorge.
 Cross-Selling: Nutzung des B2B2C-Ansatzes, um private Absicherungs- und Vorsorgebedarfe von Unternehmern, Mitarbeitenden und deren Angehörigen zu adressieren.
 Wachstumsfeld Erneuerbare Energien: Aufbau eines Lösungsanbieteransatzes für Erneuerbare Energien, der sowohl Privat- als auch Gewerbekunden adressiert.
-Zusammenfassend lässt sich sagen, dass SIGNAL IDUNA im B2B2C-Bereich folgende Ziele verfolgt:
+Zusammenfassend lässt sich sagen, dass  im B2B2C-Bereich folgende Ziele verfolgt:
 
 Marktführerschaft in den Fokus-Zielgruppen
 Ausbau des Belegschaftsgeschäfts
@@ -646,7 +646,7 @@ Erschließung neuer Wachstumsfelder, wie z.B. Erneuerbare Energien
 Stärkung der Kundenbindung durch maßgeschneiderte Lösungen und exzellenten Service
 Herausforderungen:
 
-Das Strategiepapier "SIGNAL IDUNA MOMENTUM 2030" zeigt, dass das Unternehmen die Herausforderungen der Zukunft erkannt hat und sich aktiv darauf vorbereitet. Die B2B2C-Strategie spielt dabei eine zentrale Rolle.
+Das Strategiepapier " MOMENTUM 2030" zeigt, dass das Unternehmen die Herausforderungen der Zukunft erkannt hat und sich aktiv darauf vorbereitet. Die B2B2C-Strategie spielt dabei eine zentrale Rolle.
 </ANTWORT27>
 <FRAGE28>
 Wie möchte die SI die Strategie umsetzen?
@@ -677,7 +677,7 @@ Das Strategiepapier betont die Bedeutung der Mitarbeiter für die erfolgreiche U
 
 Mitarbeit in agilen Teams: Die Strategie wird in agilen Teams (Squads, Tribes) umgesetzt. Mitarbeiter können sich in diesen Teams engagieren und ihre Expertise einbringen.
 Eigeninitiative und kontinuierliches Lernen: Die Strategie fordert von den Mitarbeitern Eigeninitiative und die Bereitschaft, sich kontinuierlich weiterzuentwickeln. Jeder Mitarbeiter kann durch sein Engagement und seinen Lernwillen zum Erfolg von MOMENTUM 2030 beitragen.
-Zusammenfassend lässt sich sagen, dass "SIGNAL IDUNA MOMENTUM 2030" eine ambitionierte und zukunftsorientierte Strategie darstellt, die auf Agilität, Kundenorientierung, Technologie und Mitarbeiterbeteiligung setzt. Die erfolgreiche Umsetzung der Strategie hängt maßgeblich von der aktiven Mitwirkung aller Mitarbeiter ab.
+Zusammenfassend lässt sich sagen, dass " MOMENTUM 2030" eine ambitionierte und zukunftsorientierte Strategie darstellt, die auf Agilität, Kundenorientierung, Technologie und Mitarbeiterbeteiligung setzt. Die erfolgreiche Umsetzung der Strategie hängt maßgeblich von der aktiven Mitwirkung aller Mitarbeiter ab.
 </ANTWORT29>
 <FRAGE30>
 Wie unterscheidet sich die Strategie zu ZUP?
