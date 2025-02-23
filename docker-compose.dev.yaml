@@ -1,0 +1,32 @@
+version: "3.9"
+services:
+  cosi-backend:
+    build:
+      context: ./application
+      dockerfile: Dockerfile.dev
+    image: cosi_dev_backend
+    environment:
+      PROJECT_ID: psi-n-chatbot-dev-b15c
+      DATASTORE_LOCATION: eu
+      DATASTORE_ID: si-cdc-weltwissen-dev-bafin-docs_1728653094458
+      LOCAL_TEST_DEPLOYMENT: True
+      CHATBOT_LOGGING_BUCKET: si-weltwissen-dev-logging-bucket-backend
+      CONNECTION_STRING: postgresql://cosi_admin:cosi@postgres-db:5432/cosi_usage
+    ports:
+      - "8080:8080"
+    volumes:
+      - $HOME/.config/gcloud/:/root/.config/gcloud
+      - ./application:/cosi
+    command: bash -c "cd .. && pip install -r alembic/requirements.txt && python alembic/migrate.py && cd backend && uvicorn main:app --host 0.0.0.0 --port 8080 --log-level debug --reload --lifespan on"
+    depends_on:
+      - postgres-db
+  postgres-db:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: cosi_usage
+      POSTGRES_USER: cosi_admin
+      POSTGRES_PASSWORD: cosi
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./postgres-data:/var/lib/postgresql/data

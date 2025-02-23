@@ -1,0 +1,33 @@
+steps:
+  - name: europe-west3-docker.pkg.dev/psi-n-cdc-idt-7ae1/si-cdc-init-bootstrap-ar/si-cdc-init-runner-image:latest
+    entrypoint: pre-commit
+    args:
+      - run
+      - --all-files
+  - name: europe-west3-docker.pkg.dev/psi-n-cdc-idt-7ae1/si-cdc-init-bootstrap-ar/si-cdc-init-runner-image:latest
+    dir: infrastructure
+    env:
+     - TF_STATE_BUCKET=$_TF_STATE_BUCKET
+    script: |
+      #!/usr/bin/env bash
+      echo "172.19.112.160 git.system.local" >> /etc/hosts
+      terraform init -input=false -backend-config="bucket=$TF_STATE_BUCKET"
+  - name: europe-west3-docker.pkg.dev/psi-n-cdc-idt-7ae1/si-cdc-init-bootstrap-ar/si-cdc-init-runner-image:latest
+    dir: infrastructure
+    entrypoint: terraform
+    args:
+      - validate
+  - name: europe-west3-docker.pkg.dev/psi-n-cdc-idt-7ae1/si-cdc-init-bootstrap-ar/si-cdc-init-runner-image:latest
+    entrypoint: terraform
+    dir: infrastructure
+    args:
+      - apply
+      - -input=false
+      - -compact-warnings
+      - -auto-approve
+      - -var-file=$_DEPLOYMENT_PATH
+serviceAccount: $SERVICE_ACCOUNT
+options:
+  substitutionOption: "ALLOW_LOOSE"
+  workerPool: "projects/psi-n-cdc-idt-7ae1/locations/europe-west3/workerPools/cdc-cloudbuild-worker-pool"
+timeout: 3600s

@@ -1,0 +1,39 @@
+## For Reference please see: https://gruntwork.io/repos/v0.1.10/pre-commit
+repos:
+  - repo: meta
+    hooks:
+      - id: check-hooks-apply
+      - id: check-useless-excludes
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.3.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-merge-conflict
+  - repo: https://github.com/gruntwork-io/pre-commit
+    rev: v0.1.11 # Get the latest from: https://github.com/gruntwork-io/pre-commit/releases
+    hooks:
+      - id: shellcheck
+  - repo: https://github.com/antonbabenko/pre-commit-terraform
+    rev: v1.45.0
+    hooks:
+      - id: terraform_fmt
+      - id: terraform_tflint
+  # - repo: https://github.com/terraform-docs/terraform-docs
+  #   rev: "v0.17.0"
+  #   hooks:
+  #     - id: terraform-docs-go
+  #       args:
+  #       - "markdown"
+  #       - "table"
+  #       - "modules/"
+  #       - "--recursive"
+  #       - "--output-file"
+  #       - "README.md"
+  #       - "--recursive-path"
+  #       - "."
+  #       - "--output-mode"
+  #       - "replace"
+  #       - "--output-template"
+  #       - "{{ .Content }}\n"

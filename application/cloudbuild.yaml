@@ -1,0 +1,40 @@
+steps:
+  - name: python:3.11
+    entrypoint: python
+    args: ['-m', 'pip', 'install', '-r', 'requirements.txt', '--user']
+  - name: python:3.11
+    entrypoint: python
+    args: ['-m', 'pip', 'install', 'pytest', 'ruff', '--user']
+  - name: python:3.11
+    entrypoint: python
+    args: ['-m', 'ruff', 'check', './app', './tests']
+  - name: europe-west3-docker.pkg.dev/si-sb-cdc-development-d9c6/cdc-tst-repo-image-hardened1/hardened_image
+    entrypoint: /usr/local/bin/pre-commit
+    args:
+      - run
+      - --all-files
+  - name: 'python:3.11'
+    entrypoint: 'python'
+    args: ['-m', 'pytest', './tests']
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [ 'build', '-t', '${_REGION}-docker.pkg.dev/${_PROJECT_ID}/${_REPOSITORY}/${_IMAGE}', '.' ]
+
+  # Push the container image to Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', '${_REGION}-docker.pkg.dev/${_PROJECT_ID}/${_REPOSITORY}/${_IMAGE}']
+  # Deploy container image to Cloud Run
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args: ['run', 'deploy', '${_SERVICE_NAME}', '--image', '${_REGION}-docker.pkg.dev/${_PROJECT_ID}/${_REPOSITORY}/${_IMAGE}', '--project', '${_PROJECT_ID}', '--region', '${_REGION}']
+images:
+- '${_REGION}-docker.pkg.dev/${_PROJECT_ID}/${_REPOSITORY}/${_IMAGE}'
+timeout: 3600s
+substitutions:
+  _SERVICE_NAME: genai-demo-iac
+  _PROJECT_ID: si-sb-cdc-development-d9c6
+  _REGION: europe-west3
+  _REPOSITORY:  si-cdc-example-err-ar
+  _IMAGE: genai-demo-iac-image
+logsBucket: 'gs://si-cdc-example-ieve-error-logging'
+options:
+  logging: GCS_ONLY

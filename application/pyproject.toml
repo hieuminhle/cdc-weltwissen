@@ -1,0 +1,25 @@
+[tool.pytest.ini_options]
+pythonpath = "."
+
+[tool.ruff]
+select = ["ALL"]
+
+# Allow lines to be as long as 120.
+line-length = 130
+
+ignore = [
+    "BLE001", # Blind exceptions
+    "D100", # Missing DOC String in public module
+    "D103", # Missing DOC String in public function
+    "D104", # Missing DOC String in public package
+    "D400", # First line should end with a period, question mark, or exclamation point
+    "D415", # First line should end with a period
+    "D211", # No blank lines before classes
+    "D213", # Multiline summary second line
+    "ISC001", # Prevent implicit string concatenation
+    "INP001", # File {filename} is part of an implicit namespace package.
+    "S311", # Standard pseudo-random generators are not suitable for cryptographic purposes
+]
+
+[tool.ruff.flake8-quotes]
+inline-quotes = "double"

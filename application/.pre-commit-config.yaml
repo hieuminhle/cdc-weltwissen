@@ -1,0 +1,32 @@
+## For Reference please see: https://gruntwork.io/repos/v0.1.10/pre-commit
+repos:
+  - repo: meta
+    hooks:
+      - id: check-hooks-apply
+      - id: check-useless-excludes
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.3.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-merge-conflict
+
+  - repo: https://github.com/gruntwork-io/pre-commit
+    rev: v0.1.22 # Get the latest from: https://github.com/gruntwork-io/pre-commit/releases
+    hooks:
+      - id: shellcheck
+  # Since Pylint is also running as a separate pipeline step, we are not using the assertion inside the pre-commit hooks
+  # - repo: local
+  #   hooks:
+  #     - id: pylint
+  #       name: pylint
+  #       entry: pylint
+  #       language: system
+  #       types: [python]
+  #       args:
+  #         [
+  #           "-rn", # Only display messages
+  #           "-sn", # Don't display the score
+  #           "--rcfile=.pylintrc", # Link to your config file
+  #         ]
